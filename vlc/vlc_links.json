@@ -1,0 +1,70 @@
+[
+  {
+    "text": "SuSE/",
+    "url": "http://download.videolan.org/SuSE/"
+  },
+  {
+    "text": "cocoapods/",
+    "url": "http://download.videolan.org/cocoapods/"
+  },
+  {
+    "text": "contrib/",
+    "url": "http://download.videolan.org/contrib/"
+  },
+  {
+    "text": "debian/",
+    "url": "http://download.videolan.org/debian/"
+  },
+  {
+    "text": "dvblast/",
+    "url": "http://download.videolan.org/dvblast/"
+  },
+  {
+    "text": "keys/",
+    "url": "http://download.videolan.org/keys/"
+  },
+  {
+    "text": "libdvbpsi/",
+    "url": "http://download.videolan.org/libdvbpsi/"
+  },
+  {
+    "text": "libdvdcss/",
+    "url": "http://download.videolan.org/libdvdcss/"
+  },
+  {
+    "text": "multicat/",
+    "url": "http://download.videolan.org/multicat/"
+  },
+  {
+    "text": "pub/",
+    "url": "http://download.videolan.org/pub/"
+  },
+  {
+    "text": "testing/",
+    "url": "http://download.videolan.org/testing/"
+  },
+  {
+    "text": "ubuntu/",
+    "url": "http://download.videolan.org/ubuntu/"
+  },
+  {
+    "text": "videolan/",
+    "url": "http://download.videolan.org/videolan/"
+  },
+  {
+    "text": "vlc/",
+    "url": "http://download.videolan.org/vlc/"
+  },
+  {
+    "text": "vlma/",
+    "url": "http://download.videolan.org/vlma/"
+  },
+  {
+    "text": "vls/",
+    "url": "http://download.videolan.org/vls/"
+  },
+  {
+    "text": "x264/",
+    "url": "http://download.videolan.org/x264/"
+  }
+]

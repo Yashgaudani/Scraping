@@ -1,0 +1,62 @@
+[
+  {
+    "text": "vlc-3.0.21-arm64.dmg",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg"
+  },
+  {
+    "text": "vlc-3.0.21-arm64.dmg.asc",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg.asc"
+  },
+  {
+    "text": "vlc-3.0.21-arm64.dmg.md5",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg.md5"
+  },
+  {
+    "text": "vlc-3.0.21-arm64.dmg.sha1",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg.sha1"
+  },
+  {
+    "text": "vlc-3.0.21-arm64.dmg.sha256",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg.sha256"
+  },
+  {
+    "text": "vlc-3.0.21-intel64.dmg",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg"
+  },
+  {
+    "text": "vlc-3.0.21-intel64.dmg.asc",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg.asc"
+  },
+  {
+    "text": "vlc-3.0.21-intel64.dmg.md5",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg.md5"
+  },
+  {
+    "text": "vlc-3.0.21-intel64.dmg.sha1",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg.sha1"
+  },
+  {
+    "text": "vlc-3.0.21-intel64.dmg.sha256",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg.sha256"
+  },
+  {
+    "text": "vlc-3.0.21-universal.dmg",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-universal.dmg"
+  },
+  {
+    "text": "vlc-3.0.21-universal.dmg.asc",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-universal.dmg.asc"
+  },
+  {
+    "text": "vlc-3.0.21-universal.dmg.md5",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-universal.dmg.md5"
+  },
+  {
+    "text": "vlc-3.0.21-universal.dmg.sha1",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-universal.dmg.sha1"
+  },
+  {
+    "text": "vlc-3.0.21-universal.dmg.sha256",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-universal.dmg.sha256"
+  }
+]

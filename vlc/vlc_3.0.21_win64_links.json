@@ -1,0 +1,66 @@
+[
+  {
+    "text": "vlc-3.0.21-win64-debugsym.7z",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64-debugsym.7z"
+  },
+  {
+    "text": "vlc-3.0.21-win64.7z",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.7z"
+  },
+  {
+    "text": "vlc-3.0.21-win64.7z.asc",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.7z.asc"
+  },
+  {
+    "text": "vlc-3.0.21-win64.7z.md5",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.7z.md5"
+  },
+  {
+    "text": "vlc-3.0.21-win64.7z.sha1",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.7z.sha1"
+  },
+  {
+    "text": "vlc-3.0.21-win64.7z.sha256",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.7z.sha256"
+  },
+  {
+    "text": "vlc-3.0.21-win64.exe",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe"
+  },
+  {
+    "text": "vlc-3.0.21-win64.exe.asc",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe.asc"
+  },
+  {
+    "text": "vlc-3.0.21-win64.exe.md5",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe.md5"
+  },
+  {
+    "text": "vlc-3.0.21-win64.exe.sha1",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe.sha1"
+  },
+  {
+    "text": "vlc-3.0.21-win64.exe.sha256",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe.sha256"
+  },
+  {
+    "text": "vlc-3.0.21-win64.zip",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.zip"
+  },
+  {
+    "text": "vlc-3.0.21-win64.zip.asc",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.zip.asc"
+  },
+  {
+    "text": "vlc-3.0.21-win64.zip.md5",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.zip.md5"
+  },
+  {
+    "text": "vlc-3.0.21-win64.zip.sha1",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.zip.sha1"
+  },
+  {
+    "text": "vlc-3.0.21-win64.zip.sha256",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.zip.sha256"
+  }
+]

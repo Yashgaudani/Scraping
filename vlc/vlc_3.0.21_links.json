@@ -1,0 +1,34 @@
+[
+  {
+    "text": "macosx/",
+    "url": "http://download.videolan.org/vlc/3.0.21/macosx/"
+  },
+  {
+    "text": "win32/",
+    "url": "http://download.videolan.org/vlc/3.0.21/win32/"
+  },
+  {
+    "text": "win64/",
+    "url": "http://download.videolan.org/vlc/3.0.21/win64/"
+  },
+  {
+    "text": "vlc-3.0.21.tar.xz",
+    "url": "http://download.videolan.org/vlc/3.0.21/vlc-3.0.21.tar.xz"
+  },
+  {
+    "text": "vlc-3.0.21.tar.xz.asc",
+    "url": "http://download.videolan.org/vlc/3.0.21/vlc-3.0.21.tar.xz.asc"
+  },
+  {
+    "text": "vlc-3.0.21.tar.xz.md5",
+    "url": "http://download.videolan.org/vlc/3.0.21/vlc-3.0.21.tar.xz.md5"
+  },
+  {
+    "text": "vlc-3.0.21.tar.xz.sha1",
+    "url": "http://download.videolan.org/vlc/3.0.21/vlc-3.0.21.tar.xz.sha1"
+  },
+  {
+    "text": "vlc-3.0.21.tar.xz.sha256",
+    "url": "http://download.videolan.org/vlc/3.0.21/vlc-3.0.21.tar.xz.sha256"
+  }
+]

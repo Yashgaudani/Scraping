@@ -1,0 +1,21 @@
+{
+  "name": "7-zip",
+  "latest_version": "24.9",
+  "files": [
+    {
+      "file_name": "7z2409-x64.exe",
+      "download_url": "https://www.7-zip.org/a/7z2409-x64.exe",
+      "os": "Windows 64-bit"
+    },
+    {
+      "file_name": "7z2409.exe",
+      "download_url": "https://www.7-zip.org/a/7z2409.exe",
+      "os": "Windows 32-bit"
+    },
+    {
+      "file_name": "7z2409-arm64.exe",
+      "download_url": "https://www.7-zip.org/a/7z2409-arm64.exe",
+      "os": "Windows ARM64"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "name": "FortiClient",
+  "latest_version": "7.6",
+  "files": [
+    {
+      "file_name": "forticlient",
+      "download_url": "https://www.fortinet.com/products/endpoint-security/forticlient",
+      "os": "Unknown"
+    },
+    {
+      "file_name": "forticlient",
+      "download_url": "https://www.fortinet.com/products/endpoint-security/forticlient",
+      "os": "Unknown"
+    },
+    {
+      "file_name": "forticlient",
+      "download_url": "https://www.fortinet.com/products/endpoint-security/forticlient#models-specs",
+      "os": "Unknown"
+    },
+    {
+      "file_name": "fabricagent",
+      "download_url": "https://links.fortinet.com/forticlient/win64/fabricagent",
+      "os": "Windows 64-bit"
+    },
+    {
+      "file_name": "id1474294106",
+      "download_url": "https://apps.apple.com/us/app/forticlient/id1474294106",
+      "os": "iOS"
+    },
+    {
+      "file_name": "fabricagent",
+      "download_url": "https://links.fortinet.com/forticlient/winarm/fabricagent",
+      "os": "Windows ARM64"
+    },
+    {
+      "file_name": "details?id=com.fortinet.forticlient_fa",
+      "download_url": "https://play.google.com/store/apps/details?id=com.fortinet.forticlient_fa",
+      "os": "Android"
+    },
+    {
+      "file_name": "fabricagent",
+      "download_url": "https://links.fortinet.com/forticlient/mac/fabricagent",
+      "os": "MacOS"
+    },
+    {
+      "file_name": "forticlient",
+      "download_url": "https://www.fortinet.com/support/product-downloads/linux",
+      "os": "Linux"
+    },
+    {
+      "file_name": "forticlient",
+      "download_url": "https://www.fortinet.com/products/endpoint-security/forticlient#models-specs",
+      "os": "Unknown"
+    },
+    {
+      "file_name": "fabricagent",
+      "download_url": "https://links.fortinet.com/forticlient/win64/fabricagent",
+      "os": "Windows 64-bit"
+    },
+    {
+      "file_name": "id1474294106",
+      "download_url": "https://apps.apple.com/us/app/forticlient/id1474294106",
+      "os": "iOS"
+    },
+    {
+      "file_name": "fabricagent",
+      "download_url": "https://links.fortinet.com/forticlient/winarm/fabricagent",
+      "os": "Windows ARM64"
+    },
+    {
+      "file_name": "details?id=com.fortinet.forticlient_fa",
+      "download_url": "https://play.google.com/store/apps/details?id=com.fortinet.forticlient_fa",
+      "os": "Android"
+    },
+    {
+      "file_name": "fabricagent",
+      "download_url": "https://links.fortinet.com/forticlient/mac/fabricagent",
+      "os": "MacOS"
+    },
+    {
+      "file_name": "forticlient",
+      "download_url": "https://www.fortinet.com/support/product-downloads/linux",
+      "os": "Linux"
+    },
+    {
+      "file_name": "forticlient",
+      "download_url": "https://www.fortinet.com/demand/gated/Product-download-fortiClient",
+      "os": "Unknown"
+    },
+    {
+      "file_name": "id1475674905",
+      "download_url": "https://apps.apple.com/us/app/forticlient-vpn/id1475674905",
+      "os": "iOS"
+    },
+    {
+      "file_name": "details?id=com.fortinet.forticlient_vpn",
+      "download_url": "https://play.google.com/store/apps/details?id=com.fortinet.forticlient_vpn",
+      "os": "Android"
+    },
+    {
+      "file_name": "forticlient",
+      "download_url": "https://www.fortinet.com/form/form-template-eloqua-contact-forticlient",
+      "os": "Unknown"
+    },
+    {
+      "file_name": "vpnagent",
+      "download_url": "https://links.fortinet.com/forticlient/win/vpnagent",
+      "os": "Windows"
+    },
+    {
+      "file_name": "vpnagent",
+      "download_url": "https://links.fortinet.com/forticlient/winarm/vpnagent",
+      "os": "Windows ARM64"
+    },
+    {
+      "file_name": "id1475674905",
+      "download_url": "https://apps.apple.com/us/app/forticlient-vpn/id1475674905",
+      "os": "iOS"
+    },
+    {
+      "file_name": "vpnagent",
+      "download_url": "https://links.fortinet.com/forticlient/mac/vpnagent",
+      "os": "MacOS"
+    },
+    {
+      "file_name": "vpnagent",
+      "download_url": "https://links.fortinet.com/forticlient/rhelarm/vpnagent",
+      "os": "Linux"
+    },
+    {
+      "file_name": "details?id=com.fortinet.forticlient_vpn",
+      "download_url": "https://play.google.com/store/apps/details?id=com.fortinet.forticlient_vpn",
+      "os": "Android"
+    },
+    {
+      "file_name": "vpnagent",
+      "download_url": "https://links.fortinet.com/forticlient/rhel/vpnagent",
+      "os": "Linux"
+    },
+    {
+      "file_name": "vpnagent",
+      "download_url": "https://links.fortinet.com/forticlient/debarm/vpnagent",
+      "os": "Linux"
+    },
+    {
+      "file_name": "vpnagent",
+      "download_url": "https://links.fortinet.com/forticlient/deb/vpnagent",
+      "os": "Linux"
+    },
+    {
+      "file_name": "id6446510040",
+      "download_url": "https://apps.apple.com/us/app/fortiexplorer-go/id6446510040",
+      "os": "iOS"
+    },
+    {
+      "file_name": "details?id=com.fortinet.fortiexplorergo&hl=en_US",
+      "download_url": "https://play.google.com/store/apps/details?id=com.fortinet.fortiexplorergo&hl=en_US",
+      "os": "Android"
+    },
+    {
+      "file_name": "id1281790628",
+      "download_url": "https://apps.apple.com/us/app/fortifone/id1281790628",
+      "os": "iOS"
+    },
+    {
+      "file_name": "details?id=com.fortinet.fvuc.app&hl=en_US",
+      "download_url": "https://play.google.com/store/apps/details?id=com.fortinet.fvuc.app&hl=en_US",
+      "os": "Android"
+    },
+    {
+      "file_name": "pamagent",
+      "download_url": "https://links.fortinet.com/forticlient/win64/pamagent",
+      "os": "Windows 64-bit"
+    },
+    {
+      "file_name": "pamagent",
+      "download_url": "https://links.fortinet.com/forticlient/win64arm/pamagent",
+      "os": "Windows ARM64"
+    },
+    {
+      "file_name": "fortipam-firefox-extension.xpi",
+      "download_url": "https://links.fortinet.com/forticlient/extensions/fortipam-firefox-extension.xpi",
+      "os": "Unknown"
+    },
+    {
+      "file_name": "fortipam-chrome-extension.crx",
+      "download_url": "https://links.fortinet.com/forticlient/extensions/fortipam-chrome-extension.crx",
+      "os": "Unknown"
+    },
+    {
+      "file_name": "fortipam-edge-extension.crx",
+      "download_url": "https://links.fortinet.com/forticlient/extensions/fortipam-edge-extension.crx",
+      "os": "Unknown"
+    },
+    {
+      "file_name": "id675093868",
+      "download_url": "https://apps.apple.com/us/app/fortirecorder-mobile/id675093868",
+      "os": "iOS"
+    },
+    {
+      "file_name": "details?id=com.fortinet.fortirecorder&hl=en_US",
+      "download_url": "https://play.google.com/store/apps/details?id=com.fortinet.fortirecorder&hl=en_US",
+      "os": "Android"
+    },
+    {
+      "file_name": "Product-download-fortiClient",
+      "download_url": "https://www.fortinet.com/demand/gated/Product-download-fortiClient",
+      "os": "Unknown"
+    },
+    {
+      "file_name": "linux",
+      "download_url": "https://www.fortinet.com/support/product-downloads/linux",
+      "os": "Linux"
+    }
+  ]
+}
