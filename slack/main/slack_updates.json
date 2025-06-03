@@ -1,0 +1,1196 @@
+[
+  {
+    "title": "Slack 4.44.63 (02/06/2025)",
+    "link": "https://slack.com/release-notes/windows#8585",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.44.63/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.44.63/slack-standalone-4.44.63.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.44.63/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.44.60 (19/05/2025)",
+    "link": "https://slack.com/release-notes/windows#8443",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.44.60/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.44.60/slack-standalone-4.44.60.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.44.60/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.44.59 (05/05/2025)",
+    "link": "https://slack.com/release-notes/windows#8410",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.44.59/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.44.59/slack-standalone-4.44.59.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.44.59/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.43.52 (17/04/2025)",
+    "link": "https://slack.com/release-notes/windows#8156",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.43.52/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.43.52/slack-standalone-4.43.52.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.43.52/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.43.51 (31/03/2025)",
+    "link": "https://slack.com/release-notes/windows#8056",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.43.51/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.43.51/slack-standalone-4.43.51.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.43.51/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.43.49 (24/03/2025)",
+    "link": "https://slack.com/release-notes/windows#8012",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.43.49/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.43.49/slack-standalone-4.43.49.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.43.49/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.43.49 (24/03/2025)",
+    "link": "https://slack.com/release-notes/windows#7864",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.43.49/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.43.49/slack-standalone-4.43.49.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.43.49/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.43.43 (10/03/2025)",
+    "link": "https://slack.com/release-notes/windows#7691",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.43.43/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.43.43/slack-standalone-4.43.43.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.43.43/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.42.120 (17/02/2025)",
+    "link": "https://slack.com/release-notes/windows#7465",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.42.120/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.42.120/slack-standalone-4.42.120.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.42.120/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.42.117 (03/02/2025)",
+    "link": "https://slack.com/release-notes/windows#7387",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.42.117/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.42.117/slack-standalone-4.42.117.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.42.117/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.42.115 (21/01/2025)",
+    "link": "https://slack.com/release-notes/windows#7201",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.42.115/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.42.115/slack-standalone-4.42.115.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.42.115/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.41.105 (09/12/2024)",
+    "link": "https://slack.com/release-notes/windows#7128",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.105/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.105/slack-standalone-4.41.105.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.41.105/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.41.104 (02/12/2024)",
+    "link": "https://slack.com/release-notes/windows#7031",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.104/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.104/slack-standalone-4.41.104.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.41.104/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.41.98 (21/11/2024)",
+    "link": "https://slack.com/release-notes/windows#6930",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.98/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.98/slack-standalone-4.41.98.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.41.98/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.41.97 (07/11/2024)",
+    "link": "https://slack.com/release-notes/windows#6900",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.97/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.97/slack-standalone-4.41.97.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.41.97/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.41.96 (22/10/2024)",
+    "link": "https://slack.com/release-notes/windows#6681",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.96/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.41.96/slack-standalone-4.41.96.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.41.96/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.40.133 (10/10/2024)",
+    "link": "https://slack.com/release-notes/windows#6533",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.133/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.133/slack-standalone-4.40.133.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.40.133/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.40.128 (12/09/2024)",
+    "link": "https://slack.com/release-notes/windows#6400",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.128/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.128/slack-standalone-4.40.128.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.40.128/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.40.126 (05/09/2024)",
+    "link": "https://slack.com/release-notes/windows#6299",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.126/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.126/slack-standalone-4.40.126.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.40.126/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.40.120 (27/08/2024)",
+    "link": "https://slack.com/release-notes/windows#5971",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.120/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.40.120/slack-standalone-4.40.120.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.40.120/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.39.95 (29/07/2024)",
+    "link": "https://slack.com/release-notes/windows#5805",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.39.95/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.39.95/slack-standalone-4.39.95.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.39.95/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.39.93 (18/07/2024)",
+    "link": "https://slack.com/release-notes/windows#5796",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.39.93/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.39.93/slack-standalone-4.39.93.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.39.93/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.39.90 (08/07/2024)",
+    "link": "https://slack.com/release-notes/windows#5708",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.39.90/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.39.90/slack-standalone-4.39.90.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.39.90/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.39.89 (25/06/2024)",
+    "link": "https://slack.com/release-notes/windows#5669",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.39.89/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.39.89/slack-standalone-4.39.89.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.39.89/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.39.88 (17/06/2024)",
+    "link": "https://slack.com/release-notes/windows#4881",
+    "content": [
+      "https://slack.com/help/articles/4426294050451-Slack-feature-retirements#announcements.",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.39.88/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.39.88/slack-standalone-4.39.88.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.39.88/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.39.87 (10/06/2024)",
+    "link": "https://slack.com/release-notes/windows#5023",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.39.87/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.39.87/slack-standalone-4.39.87.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.39.87/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.38.127 (22/05/2024)",
+    "link": "https://slack.com/release-notes/windows#5053",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.38.127/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.38.127/slack-standalone-4.38.127.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.38.127/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.38.125 (15/05/2024)",
+    "link": "https://slack.com/release-notes/windows#5001",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.38.125/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.38.125/slack-standalone-4.38.125.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.38.125/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.38.121 (09/05/2024)",
+    "link": "https://slack.com/release-notes/windows#4933",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.38.121/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.38.121/slack-standalone-4.38.121.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.38.121/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.38.115 (23/04/2024)",
+    "link": "https://slack.com/release-notes/windows#4757",
+    "content": [
+      "https://slack.com/help/articles/25076892548883-Introducing--Slack-AI",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.38.115/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.38.115/slack-standalone-4.38.115.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.38.115/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.37.101 (03/04/2024)",
+    "link": "https://slack.com/release-notes/windows#4699",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.101/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.101/slack-standalone-4.37.101.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.37.101/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.37.98 (22/03/2024)",
+    "link": "https://slack.com/release-notes/windows#4635",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.98/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.98/slack-standalone-4.37.98.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.37.98/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.37.94 (18/03/2024)",
+    "link": "https://slack.com/release-notes/windows#4477",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.94/SlackSetup.exe",
+      "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.37.94/slack-standalone-4.37.94.0.msi",
+      "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.37.94/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.36.140 (29/01/2024)",
+    "link": "https://slack.com/release-notes/windows#4408",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.36.140/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.36.140/prod/x64/slack-standalone-4.36.140.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.36.140/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.36.138 (11/01/2024)",
+    "link": "https://slack.com/release-notes/windows#4322",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.36.138/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.36.138/prod/x64/slack-standalone-4.36.138.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.36.138/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.36.136 (21/12/2023)",
+    "link": "https://slack.com/release-notes/windows#4203",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.36.136/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.36.136/prod/x64/slack-standalone-4.36.136.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.36.136/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.35.132 (21/12/2023)",
+    "link": "https://slack.com/release-notes/windows#4189",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.35.132/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.35.132/prod/x64/slack-standalone-4.35.132.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.35.132/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.36.134 (11/12/2023)",
+    "link": "https://slack.com/release-notes/windows#4150",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.36.134/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.36.134/prod/x64/slack-standalone-4.36.134.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.36.134/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.35.131 (30/11/2023)",
+    "link": "https://slack.com/release-notes/windows#4078",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.35.131/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.35.131/prod/x64/slack-standalone-4.35.131.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.35.131/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.35.130 (27/11/2023)",
+    "link": "https://slack.com/release-notes/windows#4026",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.35.130/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.35.130/prod/x64/slack-standalone-4.35.130.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.35.130/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.35.126 (06/11/2023)",
+    "link": "https://slack.com/release-notes/windows#3930",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.35.126/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.35.126/prod/x64/slack-standalone-4.35.126.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.35.126/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.35.121 (24/10/2023)",
+    "link": "https://slack.com/release-notes/windows#3808",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.35.121/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.35.121/prod/x64/slack-standalone-4.35.121.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.35.121/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.34.121 (28/09/2023)",
+    "link": "https://slack.com/release-notes/windows#3757",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.34.121/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.34.121/prod/x64/slack-standalone-4.34.121.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.34.121/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.34.119 (12/09/2023)",
+    "link": "https://slack.com/release-notes/windows#3651",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.34.119/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.34.119/prod/x64/slack-standalone-4.34.119.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.34.119/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.34.116 (07/09/2023)",
+    "link": "https://slack.com/release-notes/windows#3616",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.34.116/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.34.116/prod/x64/slack-standalone-4.34.116.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.34.116/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.34.115 (05/09/2023)",
+    "link": "https://slack.com/release-notes/windows#3551",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.34.115/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.34.115/prod/x64/slack-standalone-4.34.115.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.34.115/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.33.90 (14/08/2023)",
+    "link": "https://slack.com/release-notes/windows#3425",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.33.90/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.33.90/prod/x64/slack-standalone-4.33.90.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.33.90/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.33.84 (31/07/2023)",
+    "link": "https://slack.com/release-notes/windows#3368",
+    "content": [
+      "https://slack.com/help/articles/115002037526-System-requirements-for-using-Slack.",
+      "https://downloads.slack-edge.com/releases/windows/4.33.84/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.33.84/prod/x64/slack-standalone-4.33.84.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.33.84/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.33.73 (28/06/2023)",
+    "link": "https://slack.com/release-notes/windows#3218",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.33.73/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.33.73/prod/x64/slack-standalone-4.33.73.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.33.73/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.32.127 (06/06/2023)",
+    "link": "https://slack.com/release-notes/windows#3161",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.32.127/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.32.127/prod/x64/slack-standalone-4.32.127.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.32.127/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.32.126 (30/05/2023)",
+    "link": "https://slack.com/release-notes/windows#3071",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.32.126/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.32.126/prod/x64/slack-standalone-4.32.126.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.32.126/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.32.122 (01/05/2023)",
+    "link": "https://slack.com/release-notes/windows#2755",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.32.122/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.32.122/prod/x64/slack-standalone-4.32.122.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.32.122/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.31.155 (27/03/2023)",
+    "link": "https://slack.com/release-notes/windows#2616",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.31.155/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.31.155/prod/x64/slack-standalone-4.31.155.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.31.155/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.31.152 (20/03/2023)",
+    "link": "https://slack.com/release-notes/windows#2542",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.31.152/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.31.152/prod/x64/slack-standalone-4.31.152.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.31.152/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.31.150 (20/03/2023)",
+    "link": "https://slack.com/release-notes/windows#2378",
+    "content": [
+      "https://slack.com/help/articles/115002037526-System-requirements-for-using-Slack).",
+      "https://slack.com/help/articles/11906214948755",
+      "https://downloads.slack-edge.com/releases/windows/4.31.150/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.31.150/prod/x64/slack-standalone-4.31.150.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.31.150/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.29.149 (14/11/2022)",
+    "link": "https://slack.com/release-notes/windows#2172",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.29.149/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.29.149/prod/x64/slack-standalone-4.29.149.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.29.149/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.28.184 (27/09/2022)",
+    "link": "https://slack.com/release-notes/windows#2019",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.28.184/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.28.184/prod/x64/slack-standalone-4.28.184.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.28.184/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.28.182 (20/09/2022)",
+    "link": "https://slack.com/release-notes/windows#2008",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.28.182/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.28.182/prod/x64/slack-standalone-4.28.182.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.28.182/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.28.171 (24/08/2022)",
+    "link": "https://slack.com/release-notes/windows#1991",
+    "content": [
+      "https://slack.com/help/articles/115002037526-System-requirements-for-using-Slack",
+      "https://downloads.slack-edge.com/releases/windows/4.28.171/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.28.171/prod/x64/slack-standalone-4.28.171.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.28.171/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.27.154 (14/06/2022)",
+    "link": "https://slack.com/release-notes/windows#1964",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.27.154/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.27.154/prod/x64/slack-standalone-4.27.154.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.27.154/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.26.3 (31/05/2022)",
+    "link": "https://slack.com/release-notes/windows#1960",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.26.3/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.26.3/prod/x64/slack-standalone-4.26.3.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.26.3/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.26.2 (16/05/2022)",
+    "link": "https://slack.com/release-notes/windows#1954",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.26.2/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.26.2/prod/x64/slack-standalone-4.26.2.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.26.2/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.25.2 (11/04/2022)",
+    "link": "https://slack.com/release-notes/windows#1941",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.25.2/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.25.2/prod/x64/slack-standalone-4.25.2.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.25.2/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.25.0 (24/03/2022)",
+    "link": "https://slack.com/release-notes/windows#1922",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.25.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.25.0/prod/x64/slack-standalone-4.25.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.25.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.24.0 (28/02/2022)",
+    "link": "https://slack.com/release-notes/windows#1906",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.24.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.24.0/prod/x64/slack-standalone-4.24.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.24.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.23.0 (07/12/2021)",
+    "link": "https://slack.com/release-notes/windows#1890",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.23.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.23.0/prod/x64/slack-standalone-4.23.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.23.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.22.0 (08/11/2021)",
+    "link": "https://slack.com/release-notes/windows#1877",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.22.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.22.0/prod/x64/slack-standalone-4.22.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.22.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.21.1 (25/10/2021)",
+    "link": "https://slack.com/release-notes/windows#1881",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.21.1/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.21.1/prod/x64/slack-standalone-4.21.1.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.21.1/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.21.0 (20/10/2021)",
+    "link": "https://slack.com/release-notes/windows#1857",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.21.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.21.0/prod/x64/slack-standalone-4.21.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.21.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.20.0 (20/09/2021)",
+    "link": "https://slack.com/release-notes/windows#1851",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.20.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.20.0/prod/x64/slack-standalone-4.20.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.20.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.19.3 (25/08/2021)",
+    "link": "https://slack.com/release-notes/windows#1848",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.19.3/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.19.3/prod/x64/slack-standalone-4.19.3.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.19.3/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.19.2 (18/08/2021)",
+    "link": "https://slack.com/release-notes/windows#1840",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.19.2/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.19.2/prod/x64/slack-standalone-4.19.2.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.19.2/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.19.0 (11/08/2021)",
+    "link": "https://slack.com/release-notes/windows#1839",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.19.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.19.0/prod/x64/slack-standalone-4.19.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.19.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.18.0 (14/07/2021)",
+    "link": "https://slack.com/release-notes/windows#1819",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.18.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.18.0/prod/x64/slack-standalone-4.18.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.18.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.17.1 (04/06/2021)",
+    "link": "https://slack.com/release-notes/windows#1815",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.17.1/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.17.1/prod/x64/slack-standalone-4.17.1.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.17.1/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.17.0 (03/06/2021)",
+    "link": "https://slack.com/release-notes/windows#1803",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.17.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.17.0/prod/x64/slack-standalone-4.17.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.17.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.16.1 (06/05/2021)",
+    "link": "https://slack.com/release-notes/windows#1794",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.16.1/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.16.1/prod/x64/slack-standalone-4.16.1.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.16.1/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.16.0 (04/05/2021)",
+    "link": "https://slack.com/release-notes/windows#1796",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.16.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.16.0/prod/x64/slack-standalone-4.16.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.16.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.15.0 (12/04/2021)",
+    "link": "https://slack.com/release-notes/windows#1781",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.15.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.15.0/prod/x64/slack-standalone-4.15.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.15.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.14.0 (17/03/2021)",
+    "link": "https://slack.com/release-notes/windows#1771",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.14.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.14.0/prod/x64/slack-standalone-4.14.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.14.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.13.0 (16/02/2021)",
+    "link": "https://slack.com/release-notes/windows#1756",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.13.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.13.0/prod/x64/slack-standalone-4.13.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.13.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.12.2 (08/01/2021)",
+    "link": "https://slack.com/release-notes/windows#1742",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.12.2/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.12.2/prod/x64/slack-standalone-4.12.2.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.12.2/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.12.1 (07/01/2021)",
+    "link": "https://slack.com/release-notes/windows#1751",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.12.1/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.12.1/prod/x64/slack-standalone-4.12.1.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.12.1/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.12.0 (14/12/2020)",
+    "link": "https://slack.com/release-notes/windows#1733",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.12.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.12.0/prod/x64/slack-standalone-4.12.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.12.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.11.3 (25/11/2020)",
+    "link": "https://slack.com/release-notes/windows#1724",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.11.3/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.11.3/prod/x64/slack-standalone-4.11.3.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.11.3/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.11.1 (11/11/2020)",
+    "link": "https://slack.com/release-notes/windows#1719",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.11.1/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.11.1/prod/x64/slack-standalone-4.11.1.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.11.1/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.11.0 (09/11/2020)",
+    "link": "https://slack.com/release-notes/windows#1722",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.11.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.11.0/prod/x64/slack-standalone-4.11.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.11.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.10.3 (15/10/2020)",
+    "link": "https://slack.com/release-notes/windows#1710",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.10.3/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.10.3/prod/x64/slack-standalone-4.10.3.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.10.3/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.10.0 (06/10/2020)",
+    "link": "https://slack.com/release-notes/windows#1708",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.10.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.10.0/prod/x64/slack-standalone-4.10.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.10.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.9.0 (02/09/2020)",
+    "link": "https://slack.com/release-notes/windows#1692",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.9.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.9.0/prod/x64/slack-standalone-4.9.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.9.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.8.0 (23/07/2020)",
+    "link": "https://slack.com/release-notes/windows#1681",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.8.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.8.0/prod/x64/slack-standalone-4.8.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.8.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.7.0 (02/07/2020)",
+    "link": "https://slack.com/release-notes/windows#1676",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.7.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.7.0/prod/x64/slack-standalone-4.7.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.7.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.6.0 (21/05/2020)",
+    "link": "https://slack.com/release-notes/windows#1653",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.6.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.6.0/prod/x64/slack-standalone-4.6.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.6.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.5.1 (11/05/2020)",
+    "link": "https://slack.com/release-notes/windows#1663",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.5.1/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.5.1/prod/x64/slack-standalone-4.5.1.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.5.1/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.5.0 (21/04/2020)",
+    "link": "https://slack.com/release-notes/windows#1637",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.5.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.5.0/prod/x64/slack-standalone-4.5.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.5.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.4.2 (31/03/2020)",
+    "link": "https://slack.com/release-notes/windows#1642",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.4.2/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.4.2/prod/x64/slack-standalone-4.4.2.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.4.2/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.4.0 (18/03/2020)",
+    "link": "https://slack.com/release-notes/windows#1636",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.4.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.4.0/prod/x64/slack-standalone-4.4.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.4.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.3.4 (10/02/2020)",
+    "link": "https://slack.com/release-notes/windows#1624",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.3.4/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.3.4/prod/x64/slack-standalone-4.3.4.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.3.4/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.3.2 (21/01/2020)",
+    "link": "https://slack.com/release-notes/windows#1621",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.3.2/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.3.2/prod/x64/slack-standalone-4.3.2.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.3.2/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.3.0 (16/12/2019)",
+    "link": "https://slack.com/release-notes/windows#1611",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.3.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.3.0/prod/x64/slack-standalone-4.3.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.3.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.2.0 (26/11/2019)",
+    "link": "https://slack.com/release-notes/windows#1602",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.2.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.2.0/prod/x64/slack-standalone-4.2.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.2.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.1.2 (18/10/2019)",
+    "link": "https://slack.com/release-notes/windows#1593",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.1.2/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.1.2/prod/x64/slack-standalone-4.1.2.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.1.2/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.1.1 (08/10/2019)",
+    "link": "https://slack.com/release-notes/windows#1590",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.1.1/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.1.1/prod/x64/slack-standalone-4.1.1.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.1.1/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.1.0 (01/10/2019)",
+    "link": "https://slack.com/release-notes/windows#1578",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.1.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.1.0/prod/x64/slack-standalone-4.1.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.1.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.0.2 (19/08/2019)",
+    "link": "https://slack.com/release-notes/windows#1569",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.0.2/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.0.2/prod/x64/slack-standalone-4.0.2.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.0.2/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.0.1 (25/07/2019)",
+    "link": "https://slack.com/release-notes/windows#1560",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.0.1/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.0.1/prod/x64/slack-standalone-4.0.1.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.0.1/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 4.0.0 (08/07/2019)",
+    "link": "https://slack.com/release-notes/windows#1555",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/4.0.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/4.0.0/prod/x64/slack-standalone-4.0.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/4.0.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.4.3 (06/06/2019)",
+    "link": "https://slack.com/release-notes/windows#1542",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.4.3/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.4.3/prod/x64/slack-standalone-3.4.3.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.4.3/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.4.2 (23/05/2019)",
+    "link": "https://slack.com/release-notes/windows#1537",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.4.2/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.4.2/prod/x64/slack-standalone-3.4.2.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.4.2/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.4.1 (03/05/2019)",
+    "link": "https://slack.com/release-notes/windows#1530",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.4.1/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.4.1/prod/x64/slack-standalone-3.4.1.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.4.1/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.4.0 (18/04/2019)",
+    "link": "https://slack.com/release-notes/windows#1520",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.4.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.4.0/prod/x64/slack-standalone-3.4.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.4.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.3.8 (07/03/2019)",
+    "link": "https://slack.com/release-notes/windows#1508",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.3.8/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.3.8/prod/x64/slack-standalone-3.3.8.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.3.8/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.3.7 (16/01/2019)",
+    "link": "https://slack.com/release-notes/windows#1494",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.3.7/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.3.7/prod/x64/slack-standalone-3.3.7.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.3.7/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.3.6 (16/01/2019)",
+    "link": "https://slack.com/release-notes/windows#1493",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.3.6/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.3.6/prod/x64/slack-standalone-3.3.6.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.3.6/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.3.4 (Microsoft Store) (10/01/2019)",
+    "link": "https://slack.com/release-notes/windows#1473",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.3.4",
+      "https://downloads.slack-edge.com/releases/windows/3.3.4",
+      "https://downloads.slack-edge.com/releases/windows/3.3.4"
+    ]
+  },
+  {
+    "title": "Slack 3.3.3 (01/10/2018)",
+    "link": "https://slack.com/release-notes/windows#1464",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.3.3/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.3.3/prod/x64/slack-standalone-3.3.3.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.3.3/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.3.1 (31/08/2018)",
+    "link": "https://slack.com/release-notes/windows#1458",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.3.1/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.3.1/prod/x64/slack-standalone-3.3.1.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.3.1/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.3.0 (14/08/2018)",
+    "link": "https://slack.com/release-notes/windows#1446",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.3.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.3.0/prod/x64/slack-standalone-3.3.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.3.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.2.0 (05/06/2018)",
+    "link": "https://slack.com/release-notes/windows#1423",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.2.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.2.0/prod/x64/slack-standalone-3.2.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.2.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.1.1 (06/04/2018)",
+    "link": "https://slack.com/release-notes/windows#1416",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.1.1/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.1.1/prod/x64/slack-standalone-3.1.1.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.1.1/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.1.0 (09/03/2018)",
+    "link": "https://slack.com/release-notes/windows#1362",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.1.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.1.0/prod/x64/slack-standalone-3.1.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.1.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.0.5 (18/01/2018)",
+    "link": "https://slack.com/release-notes/windows#1392",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.0.5/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.0.5/prod/x64/slack-standalone-3.0.5.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.0.5/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.0.2 (09/01/2018)",
+    "link": "https://slack.com/release-notes/windows#1369",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.0.2/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.0.2/prod/x64/slack-standalone-3.0.2.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.0.2/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.0.3 (09/01/2018)",
+    "link": "https://slack.com/release-notes/windows#1360",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.0.3/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.0.3/prod/x64/slack-standalone-3.0.3.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.0.3/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 3.0.0 (08/12/2017)",
+    "link": "https://slack.com/release-notes/windows#1359",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/3.0.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/3.0.0/prod/x64/slack-standalone-3.0.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/3.0.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 2.9.0 (16/11/2017)",
+    "link": "https://slack.com/release-notes/windows#1393",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/2.9.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/2.9.0/prod/x64/slack-standalone-2.9.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/2.9.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 2.8.2 (16/10/2017)",
+    "link": "https://slack.com/release-notes/windows#1394",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/2.8.2/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/2.8.2/prod/x64/slack-standalone-2.8.2.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/2.8.2/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 2.8.1 (29/09/2017)",
+    "link": "https://slack.com/release-notes/windows#1395",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/2.8.1/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/2.8.1/prod/x64/slack-standalone-2.8.1.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/2.8.1/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 2.8.0 (11/09/2017)",
+    "link": "https://slack.com/release-notes/windows#1368",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/2.8.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/2.8.0/prod/x64/slack-standalone-2.8.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/2.8.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 2.7.1 (17/08/2017)",
+    "link": "https://slack.com/release-notes/windows#1385",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/2.7.1/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/2.7.1/prod/x64/slack-standalone-2.7.1.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/2.7.1/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 2.7.0 (01/08/2017)",
+    "link": "https://slack.com/release-notes/windows#1370",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/2.7.0/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/2.7.0/prod/x64/slack-standalone-2.7.0.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/2.7.0/prod/arm64/Slack.msix"
+    ]
+  },
+  {
+    "title": "Slack 2.6.5 (12/07/2017)",
+    "link": "https://slack.com/release-notes/windows#1363",
+    "content": [
+      "https://downloads.slack-edge.com/releases/windows/2.6.5/prod/x64/SlackSetup.exe",
+      "https://downloads.slack-edge.com/releases/windows/2.6.5/prod/x64/slack-standalone-2.6.5.0.msi",
+      "https://downloads.slack-edge.com/releases/windows/2.6.5/prod/arm64/Slack.msix"
+    ]
+  }
+]

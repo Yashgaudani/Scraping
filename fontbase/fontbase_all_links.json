@@ -1,0 +1,23 @@
+[
+  {
+    "product": "fontbase",
+    "version": "2.22.4",
+    "text": "FontBase-2.22.4.exe",
+    "url": "https://releases.fontba.se/win/FontBase-2.22.4.exe",
+    "platform": "Windows"
+  },
+  {
+    "product": "fontbase",
+    "version": "2.22.4",
+    "text": "FontBase-2.22.4.dmg",
+    "url": "https://releases.fontba.se/mac/FontBase-2.22.4.dmg",
+    "platform": "macOS"
+  },
+  {
+    "product": "fontbase",
+    "version": "2.22.4",
+    "text": "FontBase-2.22.4.AppImage",
+    "url": "https://releases.fontba.se/linux/FontBase-2.22.4.AppImage",
+    "platform": "Linux"
+  }
+]

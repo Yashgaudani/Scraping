@@ -1,0 +1,9 @@
+{
+  "name": "slack",
+  "versions": {
+    "windows": "4.44.60.0",
+    "mac": "4.43.52",
+    "linux": "4.43.52"
+  },
+  "files": []
+}

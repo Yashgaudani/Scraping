@@ -1,0 +1,844 @@
+[
+  {
+    "title": "Slack 4.44.63 (02/06/2025)",
+    "link": "https://slack.com/release-notes/osx#8580",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.44.63/Slack-4.44.63-macOS.dmg",
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.44.63/Slack-4.44.63-macOS.pkg"
+    ]
+  },
+  {
+    "title": "Slack 4.44.60 (19/05/2025)",
+    "link": "https://slack.com/release-notes/osx#8450",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.44.60/Slack-4.44.60-macOS.dmg",
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.44.60/Slack-4.44.60-macOS.pkg"
+    ]
+  },
+  {
+    "title": "Slack 4.44.59 (05/05/2025)",
+    "link": "https://slack.com/release-notes/osx#8405",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.44.59/Slack-4.44.59-macOS.dmg",
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.44.59/Slack-4.44.59-macOS.pkg"
+    ]
+  },
+  {
+    "title": "Slack 4.43.52 (17/04/2025)",
+    "link": "https://slack.com/release-notes/osx#8161",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.43.52/Slack-4.43.52-macOS.dmg",
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.43.52/Slack-4.43.52-macOS.pkg"
+    ]
+  },
+  {
+    "title": "Slack 4.43.51 (31/03/2025)",
+    "link": "https://slack.com/release-notes/osx#8064",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.43.51/Slack-4.43.51-macOS.dmg",
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.43.51/Slack-4.43.51-macOS.pkg"
+    ]
+  },
+  {
+    "title": "Slack 4.43.49 (20/03/2025)",
+    "link": "https://slack.com/release-notes/osx#7853",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.43.49/Slack-4.43.49-macOS.dmg",
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.43.49/Slack-4.43.49-macOS.pkg"
+    ]
+  },
+  {
+    "title": "Slack 4.43.44 (10/03/2025)",
+    "link": "https://slack.com/release-notes/osx#7678",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.43.44/Slack-4.43.44-macOS.dmg",
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.43.44/Slack-4.43.44-macOS.pkg"
+    ]
+  },
+  {
+    "title": "Slack 4.42.120 (17/02/2025)",
+    "link": "https://slack.com/release-notes/osx#7458",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.42.120/Slack-4.42.120-macOS.dmg",
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.42.120/Slack-4.42.120-macOS.pkg"
+    ]
+  },
+  {
+    "title": "Slack 4.42.117 (03/02/2025)",
+    "link": "https://slack.com/release-notes/osx#7479",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.42.117/Slack-4.42.117-macOS.dmg",
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.42.117/Slack-4.42.117-macOS.pkg"
+    ]
+  },
+  {
+    "title": "Slack 4.42.115 (21/01/2025)",
+    "link": "https://slack.com/release-notes/osx#7203",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.42.115/Slack-4.42.115-macOS.dmg",
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.42.115/Slack-4.42.115-macOS.pkg"
+    ]
+  },
+  {
+    "title": "Slack 4.41.105 (09/12/2024)",
+    "link": "https://slack.com/release-notes/osx#7123",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.41.105/Slack-4.41.105-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.41.104 (02/12/2024)",
+    "link": "https://slack.com/release-notes/osx#7037",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.41.104/Slack-4.41.104-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.41.98 (21/11/2024)",
+    "link": "https://slack.com/release-notes/osx#6923",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.41.98/Slack-4.41.98-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.41.97 (24/10/2024)",
+    "link": "https://slack.com/release-notes/osx#6825",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.41.97/Slack-4.41.97-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.41.96 (22/10/2024)",
+    "link": "https://slack.com/release-notes/osx#6763",
+    "content": [
+      "https://slack.com/help/articles/360035635174-Deploy-Slack-for-macOS",
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.41.96/Slack-4.41.96-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.40.133 (10/10/2024)",
+    "link": "https://slack.com/release-notes/osx#6519",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.40.133/Slack-4.40.133-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.40.128 (12/09/2024)",
+    "link": "https://slack.com/release-notes/osx#6405",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.40.128/Slack-4.40.128-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.40.126 (05/09/2024)",
+    "link": "https://slack.com/release-notes/osx#6314",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.40.126/Slack-4.40.126-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.40.120 (27/08/2024)",
+    "link": "https://slack.com/release-notes/osx#5965",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.40.120/Slack-4.40.120-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.39.95 (29/07/2024)",
+    "link": "https://slack.com/release-notes/osx#5815",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.39.95/Slack-4.39.95-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.39.90 (08/07/2024)",
+    "link": "https://slack.com/release-notes/osx#5703",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.39.90/Slack-4.39.90-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.39.88 (17/06/2024)",
+    "link": "https://slack.com/release-notes/osx#5614",
+    "content": [
+      "https://slack.com/help/articles/29407960918291.",
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.39.88/Slack-4.39.88-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.38.125 (15/05/2024)",
+    "link": "https://slack.com/release-notes/osx#4996",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.38.125/Slack-4.38.125-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.38.121 (09/05/2024)",
+    "link": "https://slack.com/release-notes/osx#4938",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.38.121/Slack-4.38.121-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.38.115 (23/04/2024)",
+    "link": "https://slack.com/release-notes/osx#4750",
+    "content": [
+      "https://slack.com/help/articles/25076892548883-Introducing--Slack-AI",
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.38.115/Slack-4.38.115-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.37.101 (08/04/2024)",
+    "link": "https://slack.com/release-notes/osx#4694",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.37.101/Slack-4.37.101-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.37.94 (18/03/2024)",
+    "link": "https://slack.com/release-notes/osx#4473",
+    "content": [
+      "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.37.94/Slack-4.37.94-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.36.140 (29/01/2024)",
+    "link": "https://slack.com/release-notes/osx#4402",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.36.140/prod/universal/Slack-4.36.140-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.36.138 (11/01/2024)",
+    "link": "https://slack.com/release-notes/osx#4333",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.36.138/prod/universal/Slack-4.36.138-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.36.136 (21/12/2023)",
+    "link": "https://slack.com/release-notes/osx#4199",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.36.136/prod/universal/Slack-4.36.136-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.35.132 (21/12/2023)",
+    "link": "https://slack.com/release-notes/osx#4185",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.35.132/prod/universal/Slack-4.35.132-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.36.134 (11/12/2023)",
+    "link": "https://slack.com/release-notes/osx#4145",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.36.134/prod/universal/Slack-4.36.134-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.35.131 (30/11/2023)",
+    "link": "https://slack.com/release-notes/osx#4073",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.35.131/prod/universal/Slack-4.35.131-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.35.130 (27/11/2023)",
+    "link": "https://slack.com/release-notes/osx#4021",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.35.130/prod/universal/Slack-4.35.130-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.35.126 (06/11/2023)",
+    "link": "https://slack.com/release-notes/osx#3918",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.35.126/prod/universal/Slack-4.35.126-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.35.121 (24/10/2023)",
+    "link": "https://slack.com/release-notes/osx#3796",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.35.121/prod/universal/Slack-4.35.121-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.34.121 (28/09/2023)",
+    "link": "https://slack.com/release-notes/osx#3739",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.34.121/prod/universal/Slack-4.34.121-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.34.119 (12/09/2023)",
+    "link": "https://slack.com/release-notes/osx#3634",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.34.119/prod/universal/Slack-4.34.119-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.34.115 (05/09/2023)",
+    "link": "https://slack.com/release-notes/osx#3528",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.34.115/prod/universal/Slack-4.34.115-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.33.90 (14/08/2023)",
+    "link": "https://slack.com/release-notes/osx#3418",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.33.90/prod/universal/Slack-4.33.90-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.33.84 (31/07/2023)",
+    "link": "https://slack.com/release-notes/osx#3381",
+    "content": [
+      "https://slack.com/help/articles/115002037526-System-requirements-for-using-Slack.",
+      "https://downloads.slack-edge.com/releases/macos/4.33.84/prod/universal/Slack-4.33.84-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.33.73 (28/06/2023)",
+    "link": "https://slack.com/release-notes/osx#3211",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.33.73/prod/universal/Slack-4.33.73-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.32.127 (06/06/2023)",
+    "link": "https://slack.com/release-notes/osx#3168",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.32.127/prod/universal/Slack-4.32.127-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.32.126 (30/05/2023)",
+    "link": "https://slack.com/release-notes/osx#3143",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.32.126/prod/universal/Slack-4.32.126-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.32.122 (01/05/2023)",
+    "link": "https://slack.com/release-notes/osx#2796",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.32.122/prod/universal/Slack-4.32.122-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.31.156 (05/04/2023)",
+    "link": "https://slack.com/release-notes/osx#2716",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.31.156/prod/universal/Slack-4.31.156-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.31.155 (27/03/2023)",
+    "link": "https://slack.com/release-notes/osx#2611",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.31.155/prod/universal/Slack-4.31.155-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.31.152 (20/03/2023)",
+    "link": "https://slack.com/release-notes/osx#2528",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.31.152/prod/universal/Slack-4.31.152-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.31.150 (20/03/2023)",
+    "link": "https://slack.com/release-notes/osx#2290",
+    "content": [
+      "https://slack.com/help/articles/11906214948755",
+      "https://downloads.slack-edge.com/releases/macos/4.31.150/prod/universal/Slack-4.31.150-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.29.149 (14/11/2022)",
+    "link": "https://slack.com/release-notes/osx#2156",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.29.149/prod/universal/Slack-4.29.149-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.28.184 (27/09/2022)",
+    "link": "https://slack.com/release-notes/osx#2017",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.28.184/prod/universal/Slack-4.28.184-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.28.182 (20/09/2022)",
+    "link": "https://slack.com/release-notes/osx#2010",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.28.182/prod/universal/Slack-4.28.182-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.28.171 (24/08/2022)",
+    "link": "https://slack.com/release-notes/osx#1989",
+    "content": [
+      "https://slack.com/help/articles/115002037526-System-requirements-for-using-Slack.",
+      "https://downloads.slack-edge.com/releases/macos/4.28.171/prod/universal/Slack-4.28.171-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.27.154 (14/06/2022)",
+    "link": "https://slack.com/release-notes/osx#1959",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.27.154/prod/universal/Slack-4.27.154-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.26.1 (04/05/2022)",
+    "link": "https://slack.com/release-notes/osx#1950",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.26.1/prod/universal/Slack-4.26.1-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.26.0 (25/04/2022)",
+    "link": "https://slack.com/release-notes/osx#1934",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.26.0/prod/universal/Slack-4.26.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.25.0 (24/03/2022)",
+    "link": "https://slack.com/release-notes/osx#1921",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.25.0/prod/universal/Slack-4.25.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.24.1 (10/03/2022)",
+    "link": "https://slack.com/release-notes/osx#1908",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.24.1/prod/universal/Slack-4.24.1-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.23.0 (07/12/2021)",
+    "link": "https://slack.com/release-notes/osx#1888",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.23.0/prod/universal/Slack-4.23.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.22.0 (08/11/2021)",
+    "link": "https://slack.com/release-notes/osx#1871",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.22.0/prod/universal/Slack-4.22.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.21.1 (25/10/2021)",
+    "link": "https://slack.com/release-notes/osx#1878",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.21.1/prod/universal/Slack-4.21.1-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.21.0 (20/10/2021)",
+    "link": "https://slack.com/release-notes/osx#1864",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.21.0/prod/universal/Slack-4.21.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.20.0 (20/09/2021)",
+    "link": "https://slack.com/release-notes/osx#1853",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.20.0/prod/universal/Slack-4.20.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.19.0 (11/08/2021)",
+    "link": "https://slack.com/release-notes/osx#1835",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.19.0/prod/universal/Slack-4.19.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.18.0 (14/07/2021)",
+    "link": "https://slack.com/release-notes/osx#1817",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.18.0/prod/universal/Slack-4.18.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.17.0 (03/06/2021)",
+    "link": "https://slack.com/release-notes/osx#1802",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.17.0/prod/universal/Slack-4.17.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.16.2 (10/05/2021)",
+    "link": "https://slack.com/release-notes/osx#1799",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.16.2/prod/universal/Slack-4.16.2-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.16.0 (04/05/2021)",
+    "link": "https://slack.com/release-notes/osx#1789",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.16.0/prod/universal/Slack-4.16.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.15.0 (12/04/2021)",
+    "link": "https://slack.com/release-notes/osx#1779",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.15.0/prod/universal/Slack-4.15.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.14.0 (17/03/2021)",
+    "link": "https://slack.com/release-notes/osx#1766",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.14.0/prod/universal/Slack-4.14.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.13.0 (16/02/2021)",
+    "link": "https://slack.com/release-notes/osx#1753",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.13.0/prod/universal/Slack-4.13.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.12.2 (08/01/2021)",
+    "link": "https://slack.com/release-notes/osx#1749",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.12.2/prod/universal/Slack-4.12.2-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.12.1 (07/01/2021)",
+    "link": "https://slack.com/release-notes/osx#1745",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.12.1/prod/universal/Slack-4.12.1-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.12.0 (14/12/2020)",
+    "link": "https://slack.com/release-notes/osx#1739",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.12.0/prod/universal/Slack-4.12.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.11.3 (25/11/2020)",
+    "link": "https://slack.com/release-notes/osx#1723",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.11.3/prod/universal/Slack-4.11.3-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.11.1 (11/11/2020)",
+    "link": "https://slack.com/release-notes/osx#1727",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.11.1/prod/universal/Slack-4.11.1-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.11.0 (09/11/2020)",
+    "link": "https://slack.com/release-notes/osx#1725",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.11.0/prod/universal/Slack-4.11.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.10.3 (15/10/2020)",
+    "link": "https://slack.com/release-notes/osx#1712",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.10.3/prod/universal/Slack-4.10.3-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.10.2 (09/10/2020)",
+    "link": "https://slack.com/release-notes/osx#1707",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.10.2/prod/universal/Slack-4.10.2-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.10.0 (06/10/2020)",
+    "link": "https://slack.com/release-notes/osx#1705",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.10.0/prod/universal/Slack-4.10.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.9.0 (02/09/2020)",
+    "link": "https://slack.com/release-notes/osx#1698",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.9.0/prod/universal/Slack-4.9.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.8.0 (23/07/2020)",
+    "link": "https://slack.com/release-notes/osx#1680",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.8.0/prod/universal/Slack-4.8.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.7.0 (02/07/2020)",
+    "link": "https://slack.com/release-notes/osx#1673",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.7.0/prod/universal/Slack-4.7.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.6.0 (21/05/2020)",
+    "link": "https://slack.com/release-notes/osx#1655",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.6.0/prod/universal/Slack-4.6.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.5.1 (13/05/2020)",
+    "link": "https://slack.com/release-notes/osx#1656",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.5.1/prod/universal/Slack-4.5.1-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.5.0 (01/05/2020)",
+    "link": "https://slack.com/release-notes/osx#1638",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.5.0/prod/universal/Slack-4.5.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.4.2 (31/03/2020)",
+    "link": "https://slack.com/release-notes/osx#1641",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.4.2/prod/universal/Slack-4.4.2-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.4.1 (20/03/2020)",
+    "link": "https://slack.com/release-notes/osx#1640",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.4.1/prod/universal/Slack-4.4.1-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.4.0 (18/03/2020)",
+    "link": "https://slack.com/release-notes/osx#1634",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.4.0/prod/universal/Slack-4.4.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.3.3 (21/01/2020)",
+    "link": "https://slack.com/release-notes/osx#1620",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.3.3/prod/universal/Slack-4.3.3-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.2.0 (04/12/2019)",
+    "link": "https://slack.com/release-notes/osx#1601",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.2.0/prod/universal/Slack-4.2.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.1.2 (18/10/2019)",
+    "link": "https://slack.com/release-notes/osx#1588",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.1.2/prod/universal/Slack-4.1.2-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.1.0 (16/09/2019)",
+    "link": "https://slack.com/release-notes/osx#1573",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.1.0/prod/universal/Slack-4.1.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.0.3 (28/08/2019)",
+    "link": "https://slack.com/release-notes/osx#1579",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.0.3/prod/universal/Slack-4.0.3-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.0.2 (07/08/2019)",
+    "link": "https://slack.com/release-notes/osx#1570",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.0.2/prod/universal/Slack-4.0.2-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.0.1 (25/07/2019)",
+    "link": "https://slack.com/release-notes/osx#1558",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.0.1/prod/universal/Slack-4.0.1-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 4.0.0 (15/07/2019)",
+    "link": "https://slack.com/release-notes/osx#1548",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/4.0.0/prod/universal/Slack-4.0.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 3.4.2 (23/05/2019)",
+    "link": "https://slack.com/release-notes/osx#1538",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.4.2/prod/universal/Slack-3.4.2-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 3.4.0 (18/04/2019)",
+    "link": "https://slack.com/release-notes/osx#1518",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.4.0/prod/universal/Slack-3.4.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 3.3.8 (08/03/2019)",
+    "link": "https://slack.com/release-notes/osx#1507",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.3.8/prod/universal/Slack-3.3.8-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 3.3.7 (16/01/2019)",
+    "link": "https://slack.com/release-notes/osx#1492",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.3.7/prod/universal/Slack-3.3.7-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 3.3.4 (Mac App Store) (14/01/2019)",
+    "link": "https://slack.com/release-notes/osx#1471",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.3.4"
+    ]
+  },
+  {
+    "title": "Slack 3.3.3 (02/10/2018)",
+    "link": "https://slack.com/release-notes/osx#1466",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.3.3/prod/universal/Slack-3.3.3-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 3.3.2 (Mac App Store) (06/09/2018)",
+    "link": "https://slack.com/release-notes/osx#1459",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.3.2"
+    ]
+  },
+  {
+    "title": "Slack 3.3.1 (31/08/2018)",
+    "link": "https://slack.com/release-notes/osx#1448",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.3.1/prod/universal/Slack-3.3.1-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 3.2.0 (05/06/2018)",
+    "link": "https://slack.com/release-notes/osx#1424",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.2.0/prod/universal/Slack-3.2.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 3.1.1 (06/04/2018)",
+    "link": "https://slack.com/release-notes/osx#1419",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.1.1/prod/universal/Slack-3.1.1-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 3.1.0 (09/03/2018)",
+    "link": "https://slack.com/release-notes/osx#1386",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.1.0/prod/universal/Slack-3.1.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 3.0.5 (18/01/2018)",
+    "link": "https://slack.com/release-notes/osx#1373",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.0.5/prod/universal/Slack-3.0.5-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 3.0.2 (09/01/2018)",
+    "link": "https://slack.com/release-notes/osx#1357",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.0.2/prod/universal/Slack-3.0.2-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 3.0.0 (08/12/2017)",
+    "link": "https://slack.com/release-notes/osx#1375",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/3.0.0/prod/universal/Slack-3.0.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 2.9.0 (16/11/2017)",
+    "link": "https://slack.com/release-notes/osx#1396",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/2.9.0/prod/universal/Slack-2.9.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 2.8.2 (16/10/2017)",
+    "link": "https://slack.com/release-notes/osx#1376",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/2.8.2/prod/universal/Slack-2.8.2-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 2.8.1 (29/09/2017)",
+    "link": "https://slack.com/release-notes/osx#1358",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/2.8.1/prod/universal/Slack-2.8.1-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 2.8.0 (11/09/2017)",
+    "link": "https://slack.com/release-notes/osx#1374",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/2.8.0/prod/universal/Slack-2.8.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 2.7.1 (17/08/2017)",
+    "link": "https://slack.com/release-notes/osx#1388",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/2.7.1/prod/universal/Slack-2.7.1-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 2.7.0 (01/08/2017)",
+    "link": "https://slack.com/release-notes/osx#1397",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/2.7.0/prod/universal/Slack-2.7.0-macOS.dmg"
+    ]
+  },
+  {
+    "title": "Slack 2.6.3 (07/06/2017)",
+    "link": "https://slack.com/release-notes/osx#1367",
+    "content": [
+      "https://downloads.slack-edge.com/releases/macos/2.6.3/prod/universal/Slack-2.6.3-macOS.dmg"
+    ]
+  }
+]

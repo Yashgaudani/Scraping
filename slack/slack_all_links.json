@@ -1,0 +1,5259 @@
+[
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Skip to main content",
+    "url": "https://slack.com/intl/en-in/downloads/windows#main_focusable",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "No Text",
+    "url": "https://slack.com/intl/en-in/",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "ChannelsOrganise teams and work",
+    "url": "https://slack.com/intl/en-in/features/channels",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack ConnectWork with external partners",
+    "url": "https://slack.com/intl/en-in/connect",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "MessagingChat with your team",
+    "url": "https://slack.com/intl/en-in/team-chat",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "HuddlesMeet using audio and video",
+    "url": "https://slack.com/intl/en-in/features/huddles",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "ClipsRecord and share updates",
+    "url": "https://slack.com/intl/en-in/features/clips",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "TemplatesStart any task, fast",
+    "url": "https://slack.com/intl/en-in/templates",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "CanvasCreate rich, flexible docs",
+    "url": "https://slack.com/intl/en-in/features/canvas",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "ListsOrganise, track and manage projects",
+    "url": "https://slack.com/intl/en-in/features/task-list",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "File sharingBring files into the flow of work",
+    "url": "https://slack.com/intl/en-in/document-sharing",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Workflow BuilderAutomate everyday tasks",
+    "url": "https://slack.com/intl/en-in/features/workflow-automation",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Apps & integrationsConnect your tools with Slack",
+    "url": "https://slack.com/intl/en-in/integrations",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack and SalesforceBring CRM insights into Slack",
+    "url": "https://slack.com/intl/en-in/salesforce-slack-integration",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack AISave time and work smarter with powerfully simple AI",
+    "url": "https://slack.com/intl/en-in/features/ai",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "AgentforceEmpower your whole team with AI-powered agents in Slack",
+    "url": "https://slack.com/intl/en-in/ai-agents",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Enterprise searchFind anything, all from a single search bar",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "SecurityProtect data, ensure compliance",
+    "url": "https://slack.com/intl/en-in/trust/security",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Enterprise Key ManagementMonitor and revoke access",
+    "url": "https://slack.com/intl/en-in/enterprise-key-management",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack AtlasDiscover rich profiles and org charts",
+    "url": "https://slack.com/intl/en-in/atlas",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Search everything. Find anything. Say hello to enterprise search.Learn more",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "What is Slack?",
+    "url": "https://slack.com/intl/en-in/what-is-slack",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack vs email",
+    "url": "https://slack.com/intl/en-in/why/slack-vs-email",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Accessibility",
+    "url": "https://slack.com/intl/en-in/accessibility",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Engineering",
+    "url": "https://slack.com/intl/en-in/solutions/engineering",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "IT",
+    "url": "https://slack.com/intl/en-in/solutions/information-technology",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Customer service",
+    "url": "https://slack.com/intl/en-in/solutions/customer-service",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Sales",
+    "url": "https://slack.com/intl/en-in/solutions/sales",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Project management",
+    "url": "https://slack.com/intl/en-in/solutions/project-management",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Marketing",
+    "url": "https://slack.com/intl/en-in/solutions/marketing",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Human Resources",
+    "url": "https://slack.com/intl/en-in/solutions/human-resources",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Security",
+    "url": "https://slack.com/intl/en-in/solutions/security",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Manufacture, auto and energy",
+    "url": "https://slack.com/intl/en-in/solutions/manufacturing",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Technology",
+    "url": "https://slack.com/intl/en-in/solutions/technology",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Media",
+    "url": "https://slack.com/intl/en-in/solutions/media",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Small business",
+    "url": "https://slack.com/intl/en-in/solutions/small-business",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Financial services",
+    "url": "https://slack.com/intl/en-in/solutions/financial-services",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Retail",
+    "url": "https://slack.com/intl/en-in/solutions/retail",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Education",
+    "url": "https://slack.com/intl/en-in/solutions/distance-learning",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Health and life sciences",
+    "url": "https://slack.com/intl/en-in/solutions/healthcare",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "See all solutions",
+    "url": "https://slack.com/solutions",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Start work faster with pre-made templates for every task.See all templates",
+    "url": "https://slack.com/intl/en-in/templates/gallery",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Task management",
+    "url": "https://slack.com/intl/en-in/solutions/task-management",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Scale",
+    "url": "https://slack.com/intl/en-in/scale",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Engagement",
+    "url": "https://slack.com/engage-users",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Trust",
+    "url": "https://slack.com/intl/en-in/trust",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Enterprise",
+    "url": "https://slack.com/intl/en-in/enterprise",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Resources library",
+    "url": "https://slack.com/intl/en-in/resources",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "What’s new",
+    "url": "https://slack.com/intl/en-in/innovations",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Product tour",
+    "url": "https://slackdemo.com/",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Events",
+    "url": "https://slack.com/intl/en-in/events",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Developers",
+    "url": "https://api.slack.com",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Partners",
+    "url": "https://slack.com/intl/en-in/partners",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Customer stories",
+    "url": "https://slack.com/intl/en-in/customer-stories",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Community",
+    "url": "https://slack.com/intl/en-in/community",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack Certified",
+    "url": "https://slackcertified.com",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Blog",
+    "url": "https://slack.com/intl/en-in/blog",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack Marketplace",
+    "url": "https://slack.com/marketplace",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Tips and tricks on getting started with SlackGet started",
+    "url": "https://slack.com/intl/en-in/resources/collections/slack-adoption-success-hub",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Help Centre",
+    "url": "https://slack.com/intl/en-in/help",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Customer support",
+    "url": "https://slack.com/intl/en-in/help/requests/new",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Pricing",
+    "url": "https://slack.com/intl/en-in/pricing",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Search",
+    "url": "https://slack.com/intl/en-in/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Sign in",
+    "url": "https://slack.com/signin",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Talk to sales",
+    "url": "https://slack.com/intl/en-in/contact-sales?id=windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Get started",
+    "url": "https://slack.com/get-started?entry_point=nav_menu",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Get started",
+    "url": "https://slack.com/get-started?entry_point=nav_menu",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "No Text",
+    "url": "https://slack.com/intl/en-in/",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "ChannelsOrganise teams and work",
+    "url": "https://slack.com/intl/en-in/features/channels",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack ConnectWork with external partners",
+    "url": "https://slack.com/intl/en-in/connect",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "MessagingChat with your team",
+    "url": "https://slack.com/intl/en-in/team-chat",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "HuddlesMeet using audio and video",
+    "url": "https://slack.com/intl/en-in/features/huddles",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "ClipsRecord and share updates",
+    "url": "https://slack.com/intl/en-in/features/clips",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "TemplatesStart any task, fast",
+    "url": "https://slack.com/intl/en-in/templates",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "CanvasCreate rich, flexible docs",
+    "url": "https://slack.com/intl/en-in/features/canvas",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "ListsOrganise, track and manage projects",
+    "url": "https://slack.com/intl/en-in/features/task-list",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "File sharingBring files into the flow of work",
+    "url": "https://slack.com/intl/en-in/document-sharing",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Workflow BuilderAutomate everyday tasks",
+    "url": "https://slack.com/intl/en-in/features/workflow-automation",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Apps & integrationsConnect your tools with Slack",
+    "url": "https://slack.com/intl/en-in/integrations",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack and SalesforceBring CRM insights into Slack",
+    "url": "https://slack.com/intl/en-in/salesforce-slack-integration",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack AISave time and work smarter with powerfully simple AI",
+    "url": "https://slack.com/intl/en-in/features/ai",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "AgentforceEmpower your whole team with AI-powered agents in Slack",
+    "url": "https://slack.com/intl/en-in/ai-agents",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Enterprise searchFind anything, all from a single search bar",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "SecurityProtect data, ensure compliance",
+    "url": "https://slack.com/intl/en-in/trust/security",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Enterprise Key ManagementMonitor and revoke access",
+    "url": "https://slack.com/intl/en-in/enterprise-key-management",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack AtlasDiscover rich profiles and org charts",
+    "url": "https://slack.com/intl/en-in/atlas",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Search everything. Find anything. Say hello to enterprise search.Learn more",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "What is Slack?",
+    "url": "https://slack.com/intl/en-in/what-is-slack",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack vs email",
+    "url": "https://slack.com/intl/en-in/why/slack-vs-email",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Accessibility",
+    "url": "https://slack.com/intl/en-in/accessibility",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Engineering",
+    "url": "https://slack.com/intl/en-in/solutions/engineering",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "IT",
+    "url": "https://slack.com/intl/en-in/solutions/information-technology",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Customer service",
+    "url": "https://slack.com/intl/en-in/solutions/customer-service",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Sales",
+    "url": "https://slack.com/intl/en-in/solutions/sales",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Project management",
+    "url": "https://slack.com/intl/en-in/solutions/project-management",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Marketing",
+    "url": "https://slack.com/intl/en-in/solutions/marketing",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Human Resources",
+    "url": "https://slack.com/intl/en-in/solutions/human-resources",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Security",
+    "url": "https://slack.com/intl/en-in/solutions/security",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Manufacture, auto and energy",
+    "url": "https://slack.com/intl/en-in/solutions/manufacturing",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Technology",
+    "url": "https://slack.com/intl/en-in/solutions/technology",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Media",
+    "url": "https://slack.com/intl/en-in/solutions/media",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Small business",
+    "url": "https://slack.com/intl/en-in/solutions/small-business",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Financial services",
+    "url": "https://slack.com/intl/en-in/solutions/financial-services",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Retail",
+    "url": "https://slack.com/intl/en-in/solutions/retail",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Education",
+    "url": "https://slack.com/intl/en-in/solutions/distance-learning",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Health and life sciences",
+    "url": "https://slack.com/intl/en-in/solutions/healthcare",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "See all solutions",
+    "url": "https://slack.com/solutions",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Start work faster with pre-made templates for every task.See all templates",
+    "url": "https://slack.com/intl/en-in/templates/gallery",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Task management",
+    "url": "https://slack.com/intl/en-in/solutions/task-management",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Scale",
+    "url": "https://slack.com/intl/en-in/scale",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Engagement",
+    "url": "https://slack.com/engage-users",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Trust",
+    "url": "https://slack.com/intl/en-in/trust",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Enterprise",
+    "url": "https://slack.com/intl/en-in/enterprise",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Resources library",
+    "url": "https://slack.com/intl/en-in/resources",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "What’s new",
+    "url": "https://slack.com/intl/en-in/innovations",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Product tour",
+    "url": "https://slackdemo.com/",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Events",
+    "url": "https://slack.com/intl/en-in/events",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Developers",
+    "url": "https://api.slack.com",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Partners",
+    "url": "https://slack.com/intl/en-in/partners",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Customer stories",
+    "url": "https://slack.com/intl/en-in/customer-stories",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Community",
+    "url": "https://slack.com/intl/en-in/community",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack Certified",
+    "url": "https://slackcertified.com",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Blog",
+    "url": "https://slack.com/intl/en-in/blog",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack Marketplace",
+    "url": "https://slack.com/marketplace",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Tips and tricks on getting started with SlackGet started",
+    "url": "https://slack.com/intl/en-in/resources/collections/slack-adoption-success-hub",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Help Centre",
+    "url": "https://slack.com/intl/en-in/help",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Customer support",
+    "url": "https://slack.com/intl/en-in/help/requests/new",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Pricing",
+    "url": "https://slack.com/intl/en-in/pricing",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Sign in",
+    "url": "https://slack.com/signin",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Talk to sales",
+    "url": "https://slack.com/intl/en-in/contact-sales?id=windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download Slack",
+    "url": "https://slack.com/intl/en-in/get",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download .MSIX (64-bit)",
+    "url": "https://slack.com/downloads/instructions/windows?ddl=1&build=win64_msix",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download .EXE (64-bit)",
+    "url": "https://slack.com/downloads/instructions/windows?ddl=1&build=win64",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download (ARM 64-bit)",
+    "url": "https://slack.com/downloads/instructions/windows?ddl=1&build=arm64",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download from the Microsoft Store",
+    "url": "ms-windows-store://pdp/?ProductId=9WZDNCRDK3WP&mode=mini",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Mac",
+    "url": "https://slack.com/downloads/mac",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Linux",
+    "url": "https://slack.com/downloads/linux",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "What’s new",
+    "url": "https://slack.com/intl/en-in/release-notes/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Get the beta",
+    "url": "https://slack.com/intl/en-in/beta/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Enterprise deployments",
+    "url": "https://slack.com/intl/en-in/hc/articles/212475728",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download (ARM 64-bit)",
+    "url": "https://slack.com/downloads/instructions/windows?ddl=1&build=arm64",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Android",
+    "url": "https://play.google.com/store/apps/details?id=com.Slack&listing=slackmobileweb",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "iOS",
+    "url": "https://apps.apple.com/us/app/slack/id618783545?ppid=47c2b20b-a853-4a00-9455-dea6e3f4fe06",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download Slack for Windows",
+    "url": "https://slack.com/downloads/instructions/windows?ddl=1&build=win64",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download (ARM 64-bit)",
+    "url": "https://slack.com/downloads/instructions/windows?ddl=1&build=arm64",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Talk to sales",
+    "url": "https://slack.com/intl/en-in/contact-sales?id=windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Latinoamérica (español)",
+    "url": "https://slack.com/intl/es-la/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Brasil (português)",
+    "url": "https://slack.com/intl/pt-br/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "United States (English)",
+    "url": "https://slack.com/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Deutschland (Deutsch)",
+    "url": "https://slack.com/intl/de-de/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "España (español)",
+    "url": "https://slack.com/intl/es-es/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "France (français)",
+    "url": "https://slack.com/intl/fr-fr/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Italia (italiano)",
+    "url": "https://slack.com/intl/it-it/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "United Kingdom (English)",
+    "url": "https://slack.com/intl/en-gb/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "简体中文",
+    "url": "https://slack.com/intl/zh-cn/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "繁體中文",
+    "url": "https://slack.com/intl/zh-tw/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "India (English)",
+    "url": "https://slack.com/intl/en-in/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "日本 (日本語)",
+    "url": "https://slack.com/intl/ja-jp/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "대한민국 (한국어)",
+    "url": "https://slack.com/intl/ko-kr/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Change region",
+    "url": "https://slack.com/intl/en-in/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "No Text",
+    "url": "https://www.linkedin.com/company/tiny-spec-inc/",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "No Text",
+    "url": "https://www.instagram.com/slackhq/",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "No Text",
+    "url": "https://facebook.com/slackhq",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "No Text",
+    "url": "https://twitter.com/slackhq",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "No Text",
+    "url": "https://www.youtube.com/channel/UCY3YECgeBcLCzIrFLP4gblw",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "No Text",
+    "url": "https://www.tiktok.com/@slackhq",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "No Text",
+    "url": "https://slack.com/intl/en-in/",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Watch demo",
+    "url": "https://slack.com/intl/en-in/demo",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Pricing",
+    "url": "https://slack.com/intl/en-in/pricing",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Paid vs Free",
+    "url": "https://slack.com/intl/en-in/pricing/paid-vs-free",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Accessibility",
+    "url": "https://slack.com/intl/en-in/accessibility",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Featured releases",
+    "url": "https://slack.com/intl/en-in/innovations",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Change log",
+    "url": "https://slack.com/intl/en-in/changelog",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Status",
+    "url": "https://slack-status.com/?_gl=1*6cfpp0*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack vs email",
+    "url": "https://slack.com/intl/en-in/why/slack-vs-email",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Enterprise",
+    "url": "https://slack.com/intl/en-in/enterprise",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Small business",
+    "url": "https://slack.com/intl/en-in/solutions/small-business",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Productivity",
+    "url": "https://slack.com/intl/en-in/engage-users",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Task management",
+    "url": "https://slack.com/intl/en-in/solutions/task-management",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Scale",
+    "url": "https://slack.com/intl/en-in/scale",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Trust",
+    "url": "https://slack.com/intl/en-in/trust",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Channels",
+    "url": "https://slack.com/intl/en-in/features/channels",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack Connect",
+    "url": "https://slack.com/intl/en-in/connect",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Workflow Builder",
+    "url": "https://slack.com/intl/en-in/features/workflow-automation",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Messaging",
+    "url": "https://slack.com/intl/en-in/team-chat",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Huddles",
+    "url": "https://slack.com/intl/en-in/features/huddles",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Canvas",
+    "url": "https://slack.com/intl/en-in/features/canvas",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Lists",
+    "url": "https://slack.com/intl/en-in/features/task-list",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Clips",
+    "url": "https://slack.com/intl/en-in/features/clips",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Apps & integrations",
+    "url": "https://slack.com/intl/en-in/integrations",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "File sharing",
+    "url": "https://slack.com/intl/en-in/document-sharing",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack AI",
+    "url": "https://slack.com/intl/en-in/features/ai",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Agentforce",
+    "url": "https://slack.com/intl/en-in/ai-agents",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Enterprise search",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Security",
+    "url": "https://slack.com/intl/en-in/trust/security",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Enterprise Key Management",
+    "url": "https://slack.com/intl/en-in/enterprise-key-management",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack Atlas",
+    "url": "https://slack.com/intl/en-in/atlas",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "See all features",
+    "url": "https://slack.com/intl/en-in/features",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Engineering",
+    "url": "https://slack.com/intl/en-in/solutions/engineering",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "IT",
+    "url": "https://slack.com/intl/en-in/solutions/information-technology",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Customer service",
+    "url": "https://slack.com/intl/en-in/solutions/customer-service",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Sales",
+    "url": "https://slack.com/intl/en-in/solutions/sales",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Project management",
+    "url": "https://slack.com/intl/en-in/solutions/project-management",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Marketing",
+    "url": "https://slack.com/intl/en-in/solutions/marketing",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Security",
+    "url": "https://slack.com/intl/en-in/solutions/security",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Manufacture, auto and energy",
+    "url": "https://slack.com/intl/en-in/solutions/manufacturing",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Technology",
+    "url": "https://slack.com/intl/en-in/solutions/technology",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Media",
+    "url": "https://slack.com/intl/en-in/solutions/media",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Financial services",
+    "url": "https://slack.com/intl/en-in/solutions/financial-services",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Retail",
+    "url": "https://slack.com/intl/en-in/solutions/retail",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Public sector",
+    "url": "https://slack.com/intl/en-in/solutions/public-sector",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Education",
+    "url": "https://slack.com/intl/en-in/solutions/distance-learning",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Health and life sciences",
+    "url": "https://slack.com/intl/en-in/solutions/healthcare",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "See all solutions",
+    "url": "https://slack.com/intl/en-in/solutions",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Help Centre",
+    "url": "https://slack.com/intl/en-in/help",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "What’s new",
+    "url": "https://slack.com/intl/en-in/innovations",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Resources library",
+    "url": "https://slack.com/intl/en-in/resources",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack blog",
+    "url": "https://slack.com/intl/en-in/blog",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Community",
+    "url": "https://slack.com/intl/en-in/community",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Customer stories",
+    "url": "https://slack.com/intl/en-in/customer-stories",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Events",
+    "url": "https://slack.com/intl/en-in/events",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Developers",
+    "url": "https://api.slack.com/?_gl=1*618lju*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Partners",
+    "url": "https://slack.com/intl/en-in/partners",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Partner offers",
+    "url": "https://slack.com/intl/en-in/partner-offers",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack Marketplace",
+    "url": "https://slack.com/marketplace?_gl=1*1ncbb8f*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack Certified",
+    "url": "https://slackcertified.com/?_gl=1*1ncbb8f*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "About us",
+    "url": "https://slack.com/intl/en-in/about",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "News",
+    "url": "https://slack.com/intl/en-in/blog/news",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Media kit",
+    "url": "https://slack.com/intl/en-in/media-kit",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Brand centre",
+    "url": "https://brand.slackhq.com/",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Careers",
+    "url": "https://slack.com/intl/en-in/careers",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Slack shop",
+    "url": "https://www.salesforcestore.com/Slack-C124.aspx",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Engineering blog",
+    "url": "https://slack.engineering/",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Design blog",
+    "url": "https://slack.design/",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Contact us",
+    "url": "https://slack.com/intl/en-in/help/requests/new",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "No Text",
+    "url": "https://slack.com/intl/en-in/",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Download Slack",
+    "url": "https://slack.com/intl/en-in/get",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Privacy",
+    "url": "https://slack.com/intl/en-in/trust/privacy/privacy-policy",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Terms",
+    "url": "https://slack.com/intl/en-in/legal",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Cookie preferences",
+    "url": "https://slack.com/intl/en-in/downloads/windows",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.60.0",
+    "text": "Your privacy choices",
+    "url": "https://www.salesforce.com/form/other/privacy-request/",
+    "platform": "windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Skip to main content",
+    "url": "https://slack.com/intl/en-in/downloads/mac#main_focusable",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://slack.com/intl/en-in/",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "ChannelsOrganise teams and work",
+    "url": "https://slack.com/intl/en-in/features/channels",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack ConnectWork with external partners",
+    "url": "https://slack.com/intl/en-in/connect",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "MessagingChat with your team",
+    "url": "https://slack.com/intl/en-in/team-chat",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "HuddlesMeet using audio and video",
+    "url": "https://slack.com/intl/en-in/features/huddles",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "ClipsRecord and share updates",
+    "url": "https://slack.com/intl/en-in/features/clips",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "TemplatesStart any task, fast",
+    "url": "https://slack.com/intl/en-in/templates",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "CanvasCreate rich, flexible docs",
+    "url": "https://slack.com/intl/en-in/features/canvas",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "ListsOrganise, track and manage projects",
+    "url": "https://slack.com/intl/en-in/features/task-list",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "File sharingBring files into the flow of work",
+    "url": "https://slack.com/intl/en-in/document-sharing",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Workflow BuilderAutomate everyday tasks",
+    "url": "https://slack.com/intl/en-in/features/workflow-automation",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Apps & integrationsConnect your tools with Slack",
+    "url": "https://slack.com/intl/en-in/integrations",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack and SalesforceBring CRM insights into Slack",
+    "url": "https://slack.com/intl/en-in/salesforce-slack-integration",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack AISave time and work smarter with powerfully simple AI",
+    "url": "https://slack.com/intl/en-in/features/ai",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "AgentforceEmpower your whole team with AI-powered agents in Slack",
+    "url": "https://slack.com/intl/en-in/ai-agents",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise searchFind anything, all from a single search bar",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "SecurityProtect data, ensure compliance",
+    "url": "https://slack.com/intl/en-in/trust/security",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise Key ManagementMonitor and revoke access",
+    "url": "https://slack.com/intl/en-in/enterprise-key-management",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack AtlasDiscover rich profiles and org charts",
+    "url": "https://slack.com/intl/en-in/atlas",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Search everything. Find anything. Say hello to enterprise search.Learn more",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "What is Slack?",
+    "url": "https://slack.com/intl/en-in/what-is-slack",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack vs email",
+    "url": "https://slack.com/intl/en-in/why/slack-vs-email",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Accessibility",
+    "url": "https://slack.com/intl/en-in/accessibility",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Engineering",
+    "url": "https://slack.com/intl/en-in/solutions/engineering",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "IT",
+    "url": "https://slack.com/intl/en-in/solutions/information-technology",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer service",
+    "url": "https://slack.com/intl/en-in/solutions/customer-service",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Sales",
+    "url": "https://slack.com/intl/en-in/solutions/sales",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Project management",
+    "url": "https://slack.com/intl/en-in/solutions/project-management",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Marketing",
+    "url": "https://slack.com/intl/en-in/solutions/marketing",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Human Resources",
+    "url": "https://slack.com/intl/en-in/solutions/human-resources",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Security",
+    "url": "https://slack.com/intl/en-in/solutions/security",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Manufacture, auto and energy",
+    "url": "https://slack.com/intl/en-in/solutions/manufacturing",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Technology",
+    "url": "https://slack.com/intl/en-in/solutions/technology",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Media",
+    "url": "https://slack.com/intl/en-in/solutions/media",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Small business",
+    "url": "https://slack.com/intl/en-in/solutions/small-business",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Financial services",
+    "url": "https://slack.com/intl/en-in/solutions/financial-services",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Retail",
+    "url": "https://slack.com/intl/en-in/solutions/retail",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Education",
+    "url": "https://slack.com/intl/en-in/solutions/distance-learning",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Health and life sciences",
+    "url": "https://slack.com/intl/en-in/solutions/healthcare",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "See all solutions",
+    "url": "https://slack.com/solutions",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Start work faster with pre-made templates for every task.See all templates",
+    "url": "https://slack.com/intl/en-in/templates/gallery",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Task management",
+    "url": "https://slack.com/intl/en-in/solutions/task-management",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Scale",
+    "url": "https://slack.com/intl/en-in/scale",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Engagement",
+    "url": "https://slack.com/engage-users",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Trust",
+    "url": "https://slack.com/intl/en-in/trust",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise",
+    "url": "https://slack.com/intl/en-in/enterprise",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Resources library",
+    "url": "https://slack.com/intl/en-in/resources",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "What’s new",
+    "url": "https://slack.com/intl/en-in/innovations",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Product tour",
+    "url": "https://slackdemo.com/",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Events",
+    "url": "https://slack.com/intl/en-in/events",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Developers",
+    "url": "https://api.slack.com",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Partners",
+    "url": "https://slack.com/intl/en-in/partners",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer stories",
+    "url": "https://slack.com/intl/en-in/customer-stories",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Community",
+    "url": "https://slack.com/intl/en-in/community",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Certified",
+    "url": "https://slackcertified.com",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Blog",
+    "url": "https://slack.com/intl/en-in/blog",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Marketplace",
+    "url": "https://slack.com/marketplace",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Tips and tricks on getting started with SlackGet started",
+    "url": "https://slack.com/intl/en-in/resources/collections/slack-adoption-success-hub",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Help Centre",
+    "url": "https://slack.com/intl/en-in/help",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer support",
+    "url": "https://slack.com/intl/en-in/help/requests/new",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Pricing",
+    "url": "https://slack.com/intl/en-in/pricing",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Search",
+    "url": "https://slack.com/intl/en-in/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Sign in",
+    "url": "https://slack.com/signin",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Talk to sales",
+    "url": "https://slack.com/intl/en-in/contact-sales?id=mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Get started",
+    "url": "https://slack.com/get-started?entry_point=nav_menu",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Get started",
+    "url": "https://slack.com/get-started?entry_point=nav_menu",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://slack.com/intl/en-in/",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "ChannelsOrganise teams and work",
+    "url": "https://slack.com/intl/en-in/features/channels",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack ConnectWork with external partners",
+    "url": "https://slack.com/intl/en-in/connect",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "MessagingChat with your team",
+    "url": "https://slack.com/intl/en-in/team-chat",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "HuddlesMeet using audio and video",
+    "url": "https://slack.com/intl/en-in/features/huddles",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "ClipsRecord and share updates",
+    "url": "https://slack.com/intl/en-in/features/clips",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "TemplatesStart any task, fast",
+    "url": "https://slack.com/intl/en-in/templates",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "CanvasCreate rich, flexible docs",
+    "url": "https://slack.com/intl/en-in/features/canvas",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "ListsOrganise, track and manage projects",
+    "url": "https://slack.com/intl/en-in/features/task-list",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "File sharingBring files into the flow of work",
+    "url": "https://slack.com/intl/en-in/document-sharing",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Workflow BuilderAutomate everyday tasks",
+    "url": "https://slack.com/intl/en-in/features/workflow-automation",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Apps & integrationsConnect your tools with Slack",
+    "url": "https://slack.com/intl/en-in/integrations",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack and SalesforceBring CRM insights into Slack",
+    "url": "https://slack.com/intl/en-in/salesforce-slack-integration",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack AISave time and work smarter with powerfully simple AI",
+    "url": "https://slack.com/intl/en-in/features/ai",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "AgentforceEmpower your whole team with AI-powered agents in Slack",
+    "url": "https://slack.com/intl/en-in/ai-agents",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise searchFind anything, all from a single search bar",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "SecurityProtect data, ensure compliance",
+    "url": "https://slack.com/intl/en-in/trust/security",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise Key ManagementMonitor and revoke access",
+    "url": "https://slack.com/intl/en-in/enterprise-key-management",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack AtlasDiscover rich profiles and org charts",
+    "url": "https://slack.com/intl/en-in/atlas",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Search everything. Find anything. Say hello to enterprise search.Learn more",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "What is Slack?",
+    "url": "https://slack.com/intl/en-in/what-is-slack",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack vs email",
+    "url": "https://slack.com/intl/en-in/why/slack-vs-email",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Accessibility",
+    "url": "https://slack.com/intl/en-in/accessibility",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Engineering",
+    "url": "https://slack.com/intl/en-in/solutions/engineering",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "IT",
+    "url": "https://slack.com/intl/en-in/solutions/information-technology",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer service",
+    "url": "https://slack.com/intl/en-in/solutions/customer-service",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Sales",
+    "url": "https://slack.com/intl/en-in/solutions/sales",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Project management",
+    "url": "https://slack.com/intl/en-in/solutions/project-management",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Marketing",
+    "url": "https://slack.com/intl/en-in/solutions/marketing",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Human Resources",
+    "url": "https://slack.com/intl/en-in/solutions/human-resources",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Security",
+    "url": "https://slack.com/intl/en-in/solutions/security",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Manufacture, auto and energy",
+    "url": "https://slack.com/intl/en-in/solutions/manufacturing",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Technology",
+    "url": "https://slack.com/intl/en-in/solutions/technology",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Media",
+    "url": "https://slack.com/intl/en-in/solutions/media",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Small business",
+    "url": "https://slack.com/intl/en-in/solutions/small-business",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Financial services",
+    "url": "https://slack.com/intl/en-in/solutions/financial-services",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Retail",
+    "url": "https://slack.com/intl/en-in/solutions/retail",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Education",
+    "url": "https://slack.com/intl/en-in/solutions/distance-learning",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Health and life sciences",
+    "url": "https://slack.com/intl/en-in/solutions/healthcare",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "See all solutions",
+    "url": "https://slack.com/solutions",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Start work faster with pre-made templates for every task.See all templates",
+    "url": "https://slack.com/intl/en-in/templates/gallery",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Task management",
+    "url": "https://slack.com/intl/en-in/solutions/task-management",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Scale",
+    "url": "https://slack.com/intl/en-in/scale",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Engagement",
+    "url": "https://slack.com/engage-users",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Trust",
+    "url": "https://slack.com/intl/en-in/trust",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise",
+    "url": "https://slack.com/intl/en-in/enterprise",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Resources library",
+    "url": "https://slack.com/intl/en-in/resources",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "What’s new",
+    "url": "https://slack.com/intl/en-in/innovations",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Product tour",
+    "url": "https://slackdemo.com/",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Events",
+    "url": "https://slack.com/intl/en-in/events",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Developers",
+    "url": "https://api.slack.com",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Partners",
+    "url": "https://slack.com/intl/en-in/partners",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer stories",
+    "url": "https://slack.com/intl/en-in/customer-stories",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Community",
+    "url": "https://slack.com/intl/en-in/community",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Certified",
+    "url": "https://slackcertified.com",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Blog",
+    "url": "https://slack.com/intl/en-in/blog",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Marketplace",
+    "url": "https://slack.com/marketplace",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Tips and tricks on getting started with SlackGet started",
+    "url": "https://slack.com/intl/en-in/resources/collections/slack-adoption-success-hub",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Help Centre",
+    "url": "https://slack.com/intl/en-in/help",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer support",
+    "url": "https://slack.com/intl/en-in/help/requests/new",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Pricing",
+    "url": "https://slack.com/intl/en-in/pricing",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Sign in",
+    "url": "https://slack.com/signin",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Talk to sales",
+    "url": "https://slack.com/intl/en-in/contact-sales?id=mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/intl/en-in/get",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download",
+    "url": "https://slack.com/downloads/instructions/mac?ddl=1&build=mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download from the Mac App Store",
+    "url": "https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Windows",
+    "url": "https://slack.com/downloads/windows",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Linux",
+    "url": "https://slack.com/downloads/linux",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "What’s new",
+    "url": "https://slack.com/intl/en-in/release-notes/osx",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Get the beta",
+    "url": "https://slack.com/intl/en-in/beta/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise deployments",
+    "url": "https://slack.com/intl/en-in/hc/articles/360035635174",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Android",
+    "url": "https://play.google.com/store/apps/details?id=com.Slack&listing=slackmobileweb",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "iOS",
+    "url": "https://apps.apple.com/us/app/slack/id618783545?ppid=47c2b20b-a853-4a00-9455-dea6e3f4fe06",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack for Mac",
+    "url": "https://slack.com/downloads/instructions/mac?ddl=1&build=mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Talk to sales",
+    "url": "https://slack.com/intl/en-in/contact-sales?id=mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Latinoamérica (español)",
+    "url": "https://slack.com/intl/es-la/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Brasil (português)",
+    "url": "https://slack.com/intl/pt-br/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "United States (English)",
+    "url": "https://slack.com/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Deutschland (Deutsch)",
+    "url": "https://slack.com/intl/de-de/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "España (español)",
+    "url": "https://slack.com/intl/es-es/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "France (français)",
+    "url": "https://slack.com/intl/fr-fr/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Italia (italiano)",
+    "url": "https://slack.com/intl/it-it/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "United Kingdom (English)",
+    "url": "https://slack.com/intl/en-gb/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "简体中文",
+    "url": "https://slack.com/intl/zh-cn/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "繁體中文",
+    "url": "https://slack.com/intl/zh-tw/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "India (English)",
+    "url": "https://slack.com/intl/en-in/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "日本 (日本語)",
+    "url": "https://slack.com/intl/ja-jp/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "대한민국 (한국어)",
+    "url": "https://slack.com/intl/ko-kr/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Change region",
+    "url": "https://slack.com/intl/en-in/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://www.linkedin.com/company/tiny-spec-inc/",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://www.instagram.com/slackhq/",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://facebook.com/slackhq",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://twitter.com/slackhq",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://www.youtube.com/channel/UCY3YECgeBcLCzIrFLP4gblw",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://www.tiktok.com/@slackhq",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://slack.com/intl/en-in/",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "https://slack.com/intl/en-in/demo",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Pricing",
+    "url": "https://slack.com/intl/en-in/pricing",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Paid vs Free",
+    "url": "https://slack.com/intl/en-in/pricing/paid-vs-free",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Accessibility",
+    "url": "https://slack.com/intl/en-in/accessibility",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Featured releases",
+    "url": "https://slack.com/intl/en-in/innovations",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Change log",
+    "url": "https://slack.com/intl/en-in/changelog",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Status",
+    "url": "https://slack-status.com/?_gl=1*6cfpp0*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack vs email",
+    "url": "https://slack.com/intl/en-in/why/slack-vs-email",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise",
+    "url": "https://slack.com/intl/en-in/enterprise",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Small business",
+    "url": "https://slack.com/intl/en-in/solutions/small-business",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Productivity",
+    "url": "https://slack.com/intl/en-in/engage-users",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Task management",
+    "url": "https://slack.com/intl/en-in/solutions/task-management",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Scale",
+    "url": "https://slack.com/intl/en-in/scale",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Trust",
+    "url": "https://slack.com/intl/en-in/trust",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Channels",
+    "url": "https://slack.com/intl/en-in/features/channels",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Connect",
+    "url": "https://slack.com/intl/en-in/connect",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Workflow Builder",
+    "url": "https://slack.com/intl/en-in/features/workflow-automation",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Messaging",
+    "url": "https://slack.com/intl/en-in/team-chat",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Huddles",
+    "url": "https://slack.com/intl/en-in/features/huddles",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Canvas",
+    "url": "https://slack.com/intl/en-in/features/canvas",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Lists",
+    "url": "https://slack.com/intl/en-in/features/task-list",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Clips",
+    "url": "https://slack.com/intl/en-in/features/clips",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Apps & integrations",
+    "url": "https://slack.com/intl/en-in/integrations",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "File sharing",
+    "url": "https://slack.com/intl/en-in/document-sharing",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack AI",
+    "url": "https://slack.com/intl/en-in/features/ai",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Agentforce",
+    "url": "https://slack.com/intl/en-in/ai-agents",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise search",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Security",
+    "url": "https://slack.com/intl/en-in/trust/security",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise Key Management",
+    "url": "https://slack.com/intl/en-in/enterprise-key-management",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Atlas",
+    "url": "https://slack.com/intl/en-in/atlas",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "See all features",
+    "url": "https://slack.com/intl/en-in/features",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Engineering",
+    "url": "https://slack.com/intl/en-in/solutions/engineering",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "IT",
+    "url": "https://slack.com/intl/en-in/solutions/information-technology",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer service",
+    "url": "https://slack.com/intl/en-in/solutions/customer-service",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Sales",
+    "url": "https://slack.com/intl/en-in/solutions/sales",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Project management",
+    "url": "https://slack.com/intl/en-in/solutions/project-management",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Marketing",
+    "url": "https://slack.com/intl/en-in/solutions/marketing",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Security",
+    "url": "https://slack.com/intl/en-in/solutions/security",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Manufacture, auto and energy",
+    "url": "https://slack.com/intl/en-in/solutions/manufacturing",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Technology",
+    "url": "https://slack.com/intl/en-in/solutions/technology",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Media",
+    "url": "https://slack.com/intl/en-in/solutions/media",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Financial services",
+    "url": "https://slack.com/intl/en-in/solutions/financial-services",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Retail",
+    "url": "https://slack.com/intl/en-in/solutions/retail",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Public sector",
+    "url": "https://slack.com/intl/en-in/solutions/public-sector",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Education",
+    "url": "https://slack.com/intl/en-in/solutions/distance-learning",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Health and life sciences",
+    "url": "https://slack.com/intl/en-in/solutions/healthcare",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "See all solutions",
+    "url": "https://slack.com/intl/en-in/solutions",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Help Centre",
+    "url": "https://slack.com/intl/en-in/help",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "What’s new",
+    "url": "https://slack.com/intl/en-in/innovations",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Resources library",
+    "url": "https://slack.com/intl/en-in/resources",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack blog",
+    "url": "https://slack.com/intl/en-in/blog",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Community",
+    "url": "https://slack.com/intl/en-in/community",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer stories",
+    "url": "https://slack.com/intl/en-in/customer-stories",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Events",
+    "url": "https://slack.com/intl/en-in/events",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Developers",
+    "url": "https://api.slack.com/?_gl=1*618lju*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Partners",
+    "url": "https://slack.com/intl/en-in/partners",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Partner offers",
+    "url": "https://slack.com/intl/en-in/partner-offers",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Marketplace",
+    "url": "https://slack.com/marketplace?_gl=1*1ncbb8f*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Certified",
+    "url": "https://slackcertified.com/?_gl=1*1ncbb8f*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "About us",
+    "url": "https://slack.com/intl/en-in/about",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "News",
+    "url": "https://slack.com/intl/en-in/blog/news",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Media kit",
+    "url": "https://slack.com/intl/en-in/media-kit",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Brand centre",
+    "url": "https://brand.slackhq.com/",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Careers",
+    "url": "https://slack.com/intl/en-in/careers",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack shop",
+    "url": "https://www.salesforcestore.com/Slack-C124.aspx",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Engineering blog",
+    "url": "https://slack.engineering/",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Design blog",
+    "url": "https://slack.design/",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Contact us",
+    "url": "https://slack.com/intl/en-in/help/requests/new",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://slack.com/intl/en-in/",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/intl/en-in/get",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Privacy",
+    "url": "https://slack.com/intl/en-in/trust/privacy/privacy-policy",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Terms",
+    "url": "https://slack.com/intl/en-in/legal",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Cookie preferences",
+    "url": "https://slack.com/intl/en-in/downloads/mac",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Your privacy choices",
+    "url": "https://www.salesforce.com/form/other/privacy-request/",
+    "platform": "mac"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Skip to main content",
+    "url": "https://slack.com/intl/en-in/downloads/linux#main_focusable",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://slack.com/intl/en-in/",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "ChannelsOrganise teams and work",
+    "url": "https://slack.com/intl/en-in/features/channels",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack ConnectWork with external partners",
+    "url": "https://slack.com/intl/en-in/connect",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "MessagingChat with your team",
+    "url": "https://slack.com/intl/en-in/team-chat",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "HuddlesMeet using audio and video",
+    "url": "https://slack.com/intl/en-in/features/huddles",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "ClipsRecord and share updates",
+    "url": "https://slack.com/intl/en-in/features/clips",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "TemplatesStart any task, fast",
+    "url": "https://slack.com/intl/en-in/templates",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "CanvasCreate rich, flexible docs",
+    "url": "https://slack.com/intl/en-in/features/canvas",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "ListsOrganise, track and manage projects",
+    "url": "https://slack.com/intl/en-in/features/task-list",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "File sharingBring files into the flow of work",
+    "url": "https://slack.com/intl/en-in/document-sharing",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Workflow BuilderAutomate everyday tasks",
+    "url": "https://slack.com/intl/en-in/features/workflow-automation",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Apps & integrationsConnect your tools with Slack",
+    "url": "https://slack.com/intl/en-in/integrations",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack and SalesforceBring CRM insights into Slack",
+    "url": "https://slack.com/intl/en-in/salesforce-slack-integration",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack AISave time and work smarter with powerfully simple AI",
+    "url": "https://slack.com/intl/en-in/features/ai",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "AgentforceEmpower your whole team with AI-powered agents in Slack",
+    "url": "https://slack.com/intl/en-in/ai-agents",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise searchFind anything, all from a single search bar",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "SecurityProtect data, ensure compliance",
+    "url": "https://slack.com/intl/en-in/trust/security",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise Key ManagementMonitor and revoke access",
+    "url": "https://slack.com/intl/en-in/enterprise-key-management",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack AtlasDiscover rich profiles and org charts",
+    "url": "https://slack.com/intl/en-in/atlas",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Search everything. Find anything. Say hello to enterprise search.Learn more",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "What is Slack?",
+    "url": "https://slack.com/intl/en-in/what-is-slack",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack vs email",
+    "url": "https://slack.com/intl/en-in/why/slack-vs-email",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Accessibility",
+    "url": "https://slack.com/intl/en-in/accessibility",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Engineering",
+    "url": "https://slack.com/intl/en-in/solutions/engineering",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "IT",
+    "url": "https://slack.com/intl/en-in/solutions/information-technology",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer service",
+    "url": "https://slack.com/intl/en-in/solutions/customer-service",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Sales",
+    "url": "https://slack.com/intl/en-in/solutions/sales",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Project management",
+    "url": "https://slack.com/intl/en-in/solutions/project-management",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Marketing",
+    "url": "https://slack.com/intl/en-in/solutions/marketing",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Human Resources",
+    "url": "https://slack.com/intl/en-in/solutions/human-resources",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Security",
+    "url": "https://slack.com/intl/en-in/solutions/security",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Manufacture, auto and energy",
+    "url": "https://slack.com/intl/en-in/solutions/manufacturing",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Technology",
+    "url": "https://slack.com/intl/en-in/solutions/technology",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Media",
+    "url": "https://slack.com/intl/en-in/solutions/media",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Small business",
+    "url": "https://slack.com/intl/en-in/solutions/small-business",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Financial services",
+    "url": "https://slack.com/intl/en-in/solutions/financial-services",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Retail",
+    "url": "https://slack.com/intl/en-in/solutions/retail",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Education",
+    "url": "https://slack.com/intl/en-in/solutions/distance-learning",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Health and life sciences",
+    "url": "https://slack.com/intl/en-in/solutions/healthcare",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "See all solutions",
+    "url": "https://slack.com/solutions",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Start work faster with pre-made templates for every task.See all templates",
+    "url": "https://slack.com/intl/en-in/templates/gallery",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Task management",
+    "url": "https://slack.com/intl/en-in/solutions/task-management",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Scale",
+    "url": "https://slack.com/intl/en-in/scale",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Engagement",
+    "url": "https://slack.com/engage-users",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Trust",
+    "url": "https://slack.com/intl/en-in/trust",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise",
+    "url": "https://slack.com/intl/en-in/enterprise",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Resources library",
+    "url": "https://slack.com/intl/en-in/resources",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "What’s new",
+    "url": "https://slack.com/intl/en-in/innovations",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Product tour",
+    "url": "https://slackdemo.com/",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Events",
+    "url": "https://slack.com/intl/en-in/events",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Developers",
+    "url": "https://api.slack.com",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Partners",
+    "url": "https://slack.com/intl/en-in/partners",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer stories",
+    "url": "https://slack.com/intl/en-in/customer-stories",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Community",
+    "url": "https://slack.com/intl/en-in/community",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Certified",
+    "url": "https://slackcertified.com",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Blog",
+    "url": "https://slack.com/intl/en-in/blog",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Marketplace",
+    "url": "https://slack.com/marketplace",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Tips and tricks on getting started with SlackGet started",
+    "url": "https://slack.com/intl/en-in/resources/collections/slack-adoption-success-hub",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Help Centre",
+    "url": "https://slack.com/intl/en-in/help",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer support",
+    "url": "https://slack.com/intl/en-in/help/requests/new",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Pricing",
+    "url": "https://slack.com/intl/en-in/pricing",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Search",
+    "url": "https://slack.com/intl/en-in/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Sign in",
+    "url": "https://slack.com/signin",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Talk to sales",
+    "url": "https://slack.com/intl/en-in/contact-sales?id=linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Get started",
+    "url": "https://slack.com/get-started?entry_point=nav_menu",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Get started",
+    "url": "https://slack.com/get-started?entry_point=nav_menu",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://slack.com/intl/en-in/",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "ChannelsOrganise teams and work",
+    "url": "https://slack.com/intl/en-in/features/channels",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack ConnectWork with external partners",
+    "url": "https://slack.com/intl/en-in/connect",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "MessagingChat with your team",
+    "url": "https://slack.com/intl/en-in/team-chat",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "HuddlesMeet using audio and video",
+    "url": "https://slack.com/intl/en-in/features/huddles",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "ClipsRecord and share updates",
+    "url": "https://slack.com/intl/en-in/features/clips",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "TemplatesStart any task, fast",
+    "url": "https://slack.com/intl/en-in/templates",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "CanvasCreate rich, flexible docs",
+    "url": "https://slack.com/intl/en-in/features/canvas",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "ListsOrganise, track and manage projects",
+    "url": "https://slack.com/intl/en-in/features/task-list",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "File sharingBring files into the flow of work",
+    "url": "https://slack.com/intl/en-in/document-sharing",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Workflow BuilderAutomate everyday tasks",
+    "url": "https://slack.com/intl/en-in/features/workflow-automation",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Apps & integrationsConnect your tools with Slack",
+    "url": "https://slack.com/intl/en-in/integrations",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack and SalesforceBring CRM insights into Slack",
+    "url": "https://slack.com/intl/en-in/salesforce-slack-integration",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack AISave time and work smarter with powerfully simple AI",
+    "url": "https://slack.com/intl/en-in/features/ai",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "AgentforceEmpower your whole team with AI-powered agents in Slack",
+    "url": "https://slack.com/intl/en-in/ai-agents",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise searchFind anything, all from a single search bar",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "SecurityProtect data, ensure compliance",
+    "url": "https://slack.com/intl/en-in/trust/security",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise Key ManagementMonitor and revoke access",
+    "url": "https://slack.com/intl/en-in/enterprise-key-management",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack AtlasDiscover rich profiles and org charts",
+    "url": "https://slack.com/intl/en-in/atlas",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Search everything. Find anything. Say hello to enterprise search.Learn more",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "What is Slack?",
+    "url": "https://slack.com/intl/en-in/what-is-slack",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack vs email",
+    "url": "https://slack.com/intl/en-in/why/slack-vs-email",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Accessibility",
+    "url": "https://slack.com/intl/en-in/accessibility",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Engineering",
+    "url": "https://slack.com/intl/en-in/solutions/engineering",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "IT",
+    "url": "https://slack.com/intl/en-in/solutions/information-technology",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer service",
+    "url": "https://slack.com/intl/en-in/solutions/customer-service",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Sales",
+    "url": "https://slack.com/intl/en-in/solutions/sales",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Project management",
+    "url": "https://slack.com/intl/en-in/solutions/project-management",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Marketing",
+    "url": "https://slack.com/intl/en-in/solutions/marketing",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Human Resources",
+    "url": "https://slack.com/intl/en-in/solutions/human-resources",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Security",
+    "url": "https://slack.com/intl/en-in/solutions/security",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Manufacture, auto and energy",
+    "url": "https://slack.com/intl/en-in/solutions/manufacturing",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Technology",
+    "url": "https://slack.com/intl/en-in/solutions/technology",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Media",
+    "url": "https://slack.com/intl/en-in/solutions/media",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Small business",
+    "url": "https://slack.com/intl/en-in/solutions/small-business",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Financial services",
+    "url": "https://slack.com/intl/en-in/solutions/financial-services",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Retail",
+    "url": "https://slack.com/intl/en-in/solutions/retail",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Education",
+    "url": "https://slack.com/intl/en-in/solutions/distance-learning",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Health and life sciences",
+    "url": "https://slack.com/intl/en-in/solutions/healthcare",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "See all solutions",
+    "url": "https://slack.com/solutions",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Start work faster with pre-made templates for every task.See all templates",
+    "url": "https://slack.com/intl/en-in/templates/gallery",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Task management",
+    "url": "https://slack.com/intl/en-in/solutions/task-management",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Scale",
+    "url": "https://slack.com/intl/en-in/scale",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Engagement",
+    "url": "https://slack.com/engage-users",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Trust",
+    "url": "https://slack.com/intl/en-in/trust",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise",
+    "url": "https://slack.com/intl/en-in/enterprise",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Resources library",
+    "url": "https://slack.com/intl/en-in/resources",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "What’s new",
+    "url": "https://slack.com/intl/en-in/innovations",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Product tour",
+    "url": "https://slackdemo.com/",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Events",
+    "url": "https://slack.com/intl/en-in/events",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Developers",
+    "url": "https://api.slack.com",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Partners",
+    "url": "https://slack.com/intl/en-in/partners",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer stories",
+    "url": "https://slack.com/intl/en-in/customer-stories",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Community",
+    "url": "https://slack.com/intl/en-in/community",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Certified",
+    "url": "https://slackcertified.com",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Blog",
+    "url": "https://slack.com/intl/en-in/blog",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Marketplace",
+    "url": "https://slack.com/marketplace",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "http://slack.com/demo",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/get",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Tips and tricks on getting started with SlackGet started",
+    "url": "https://slack.com/intl/en-in/resources/collections/slack-adoption-success-hub",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Help Centre",
+    "url": "https://slack.com/intl/en-in/help",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer support",
+    "url": "https://slack.com/intl/en-in/help/requests/new",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Pricing",
+    "url": "https://slack.com/intl/en-in/pricing",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Sign in",
+    "url": "https://slack.com/signin",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Talk to sales",
+    "url": "https://slack.com/intl/en-in/contact-sales?id=linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/intl/en-in/get",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://snapcraft.io/slack",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download .RPM app",
+    "url": "https://slack.com/downloads/instructions/linux?ddl=1&build=rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Windows",
+    "url": "https://slack.com/downloads/windows",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Mac",
+    "url": "https://slack.com/downloads/mac",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "What’s new",
+    "url": "https://slack.com/intl/en-in/release-notes/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download .RPM app",
+    "url": "https://slack.com/downloads/instructions/linux?ddl=1&build=rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download .DEB app",
+    "url": "https://slack.com/downloads/instructions/linux?ddl=1&build=deb",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Android",
+    "url": "https://play.google.com/store/apps/details?id=com.Slack&listing=slackmobileweb",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "iOS",
+    "url": "https://apps.apple.com/us/app/slack/id618783545?ppid=47c2b20b-a853-4a00-9455-dea6e3f4fe06",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack for Linux beta",
+    "url": "https://slack.com/downloads/instructions/linux?ddl=1&build=rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Talk to sales",
+    "url": "https://slack.com/intl/en-in/contact-sales?id=linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Latinoamérica (español)",
+    "url": "https://slack.com/intl/es-la/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Brasil (português)",
+    "url": "https://slack.com/intl/pt-br/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "United States (English)",
+    "url": "https://slack.com/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Deutschland (Deutsch)",
+    "url": "https://slack.com/intl/de-de/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "España (español)",
+    "url": "https://slack.com/intl/es-es/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "France (français)",
+    "url": "https://slack.com/intl/fr-fr/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Italia (italiano)",
+    "url": "https://slack.com/intl/it-it/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "United Kingdom (English)",
+    "url": "https://slack.com/intl/en-gb/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "简体中文",
+    "url": "https://slack.com/intl/zh-cn/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "繁體中文",
+    "url": "https://slack.com/intl/zh-tw/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "India (English)",
+    "url": "https://slack.com/intl/en-in/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "日本 (日本語)",
+    "url": "https://slack.com/intl/ja-jp/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "대한민국 (한국어)",
+    "url": "https://slack.com/intl/ko-kr/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Change region",
+    "url": "https://slack.com/intl/en-in/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://www.linkedin.com/company/tiny-spec-inc/",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://www.instagram.com/slackhq/",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://facebook.com/slackhq",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://twitter.com/slackhq",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://www.youtube.com/channel/UCY3YECgeBcLCzIrFLP4gblw",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://www.tiktok.com/@slackhq",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://slack.com/intl/en-in/",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Watch demo",
+    "url": "https://slack.com/intl/en-in/demo",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Pricing",
+    "url": "https://slack.com/intl/en-in/pricing",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Paid vs Free",
+    "url": "https://slack.com/intl/en-in/pricing/paid-vs-free",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Accessibility",
+    "url": "https://slack.com/intl/en-in/accessibility",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Featured releases",
+    "url": "https://slack.com/intl/en-in/innovations",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Change log",
+    "url": "https://slack.com/intl/en-in/changelog",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Status",
+    "url": "https://slack-status.com/?_gl=1*6cfpp0*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack vs email",
+    "url": "https://slack.com/intl/en-in/why/slack-vs-email",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise",
+    "url": "https://slack.com/intl/en-in/enterprise",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Small business",
+    "url": "https://slack.com/intl/en-in/solutions/small-business",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Productivity",
+    "url": "https://slack.com/intl/en-in/engage-users",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Task management",
+    "url": "https://slack.com/intl/en-in/solutions/task-management",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Scale",
+    "url": "https://slack.com/intl/en-in/scale",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Trust",
+    "url": "https://slack.com/intl/en-in/trust",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Channels",
+    "url": "https://slack.com/intl/en-in/features/channels",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Connect",
+    "url": "https://slack.com/intl/en-in/connect",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Workflow Builder",
+    "url": "https://slack.com/intl/en-in/features/workflow-automation",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Messaging",
+    "url": "https://slack.com/intl/en-in/team-chat",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Huddles",
+    "url": "https://slack.com/intl/en-in/features/huddles",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Canvas",
+    "url": "https://slack.com/intl/en-in/features/canvas",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Lists",
+    "url": "https://slack.com/intl/en-in/features/task-list",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Clips",
+    "url": "https://slack.com/intl/en-in/features/clips",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Apps & integrations",
+    "url": "https://slack.com/intl/en-in/integrations",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "File sharing",
+    "url": "https://slack.com/intl/en-in/document-sharing",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack AI",
+    "url": "https://slack.com/intl/en-in/features/ai",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Agentforce",
+    "url": "https://slack.com/intl/en-in/ai-agents",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise search",
+    "url": "https://slack.com/intl/en-in/features/enterprise-search",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Security",
+    "url": "https://slack.com/intl/en-in/trust/security",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Enterprise Key Management",
+    "url": "https://slack.com/intl/en-in/enterprise-key-management",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Atlas",
+    "url": "https://slack.com/intl/en-in/atlas",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "See all features",
+    "url": "https://slack.com/intl/en-in/features",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Engineering",
+    "url": "https://slack.com/intl/en-in/solutions/engineering",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "IT",
+    "url": "https://slack.com/intl/en-in/solutions/information-technology",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer service",
+    "url": "https://slack.com/intl/en-in/solutions/customer-service",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Sales",
+    "url": "https://slack.com/intl/en-in/solutions/sales",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Project management",
+    "url": "https://slack.com/intl/en-in/solutions/project-management",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Marketing",
+    "url": "https://slack.com/intl/en-in/solutions/marketing",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Security",
+    "url": "https://slack.com/intl/en-in/solutions/security",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Manufacture, auto and energy",
+    "url": "https://slack.com/intl/en-in/solutions/manufacturing",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Technology",
+    "url": "https://slack.com/intl/en-in/solutions/technology",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Media",
+    "url": "https://slack.com/intl/en-in/solutions/media",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Financial services",
+    "url": "https://slack.com/intl/en-in/solutions/financial-services",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Retail",
+    "url": "https://slack.com/intl/en-in/solutions/retail",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Public sector",
+    "url": "https://slack.com/intl/en-in/solutions/public-sector",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Education",
+    "url": "https://slack.com/intl/en-in/solutions/distance-learning",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Health and life sciences",
+    "url": "https://slack.com/intl/en-in/solutions/healthcare",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "See all solutions",
+    "url": "https://slack.com/intl/en-in/solutions",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Help Centre",
+    "url": "https://slack.com/intl/en-in/help",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "What’s new",
+    "url": "https://slack.com/intl/en-in/innovations",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Resources library",
+    "url": "https://slack.com/intl/en-in/resources",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack blog",
+    "url": "https://slack.com/intl/en-in/blog",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Community",
+    "url": "https://slack.com/intl/en-in/community",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Customer stories",
+    "url": "https://slack.com/intl/en-in/customer-stories",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Events",
+    "url": "https://slack.com/intl/en-in/events",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Developers",
+    "url": "https://api.slack.com/?_gl=1*618lju*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Partners",
+    "url": "https://slack.com/intl/en-in/partners",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Partner offers",
+    "url": "https://slack.com/intl/en-in/partner-offers",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Marketplace",
+    "url": "https://slack.com/marketplace?_gl=1*1ncbb8f*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack Certified",
+    "url": "https://slackcertified.com/?_gl=1*1ncbb8f*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "About us",
+    "url": "https://slack.com/intl/en-in/about",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "News",
+    "url": "https://slack.com/intl/en-in/blog/news",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Media kit",
+    "url": "https://slack.com/intl/en-in/media-kit",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Brand centre",
+    "url": "https://brand.slackhq.com/",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Careers",
+    "url": "https://slack.com/intl/en-in/careers",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Slack shop",
+    "url": "https://www.salesforcestore.com/Slack-C124.aspx",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Engineering blog",
+    "url": "https://slack.engineering/",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Design blog",
+    "url": "https://slack.design/",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Contact us",
+    "url": "https://slack.com/intl/en-in/help/requests/new",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "No Text",
+    "url": "https://slack.com/intl/en-in/",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Download Slack",
+    "url": "https://slack.com/intl/en-in/get",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Privacy",
+    "url": "https://slack.com/intl/en-in/trust/privacy/privacy-policy",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Terms",
+    "url": "https://slack.com/intl/en-in/legal",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Cookie preferences",
+    "url": "https://slack.com/intl/en-in/downloads/linux",
+    "platform": "linux"
+  },
+  {
+    "product": "slack",
+    "version": "4.43.52",
+    "text": "Your privacy choices",
+    "url": "https://www.salesforce.com/form/other/privacy-request/",
+    "platform": "linux"
+  }
+]

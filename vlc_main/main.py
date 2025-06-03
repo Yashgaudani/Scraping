@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import re
 import urllib3
+import os
 
 # Disable HTTPS warnings since verify=False is used
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -49,65 +50,144 @@ def detect_os(folder_name):
     else:
         return 'Other'
 
-# Base URL
-base_url = 'https://download.videolan.org/'
+def scrape_vlc():
+    # Base URL
+    base_url = 'https://download.videolan.org/'
+    all_links = []
+    
+    try:
+        print("\n=== Scraping VLC ===")
+        top_level = fetch_files(base_url)
+        
+        if 'vlc' in top_level:
+            print("[✔] 'vlc/' folder found.")
+            vlc_url = base_url + 'vlc/'
+            name = 'vlc'
+            versions = fetch_files(vlc_url)
+            latest_version = get_latest_version(versions)
 
-try:
-    top_level = fetch_files(base_url)
-    if 'vlc' in top_level:
-        print("[✔] 'vlc/' folder found.")
-        vlc_url = base_url + 'vlc/'
-        name = 'vlc'
-        versions = fetch_files(vlc_url)
-        latest_version = get_latest_version(versions)
+            if latest_version:
+                latest_url = f"{vlc_url}{latest_version}/"
+                print(f"[✔] Latest version found: {latest_version}")
+                print(f"➡️ Latest VLC URL: {latest_url}")
 
-        if latest_version:
-            latest_url = f"{vlc_url}{latest_version}/"
-            print(f"[✔] Latest version found: {latest_version}")
-            print(f"➡️ Latest VLC URL: {latest_url}")
+                vlc_data = {
+                    "name": name,
+                    "latest_version": latest_version,
+                    "files": []
+                }
 
-            vlc_data = {
-                "name": name,
-                "latest_version": latest_version,
-                "files": []
-            }
+                subentries = fetch_files(latest_url)
+                file_count = 0
+                
+                print("\nAll files found:")
+                print("-" * 50)
+                
+                for entry in subentries:
+                    if '.' not in entry:
+                        folder_url = f"{latest_url}{entry}/"
+                        os_name = detect_os(entry)
+                        try:
+                            subfiles = fetch_files(folder_url)
+                            for file in subfiles:
+                                file_url = f"{folder_url}{file}"
+                                print(f"File: {file}")
+                                print(f"URL: {file_url}")
+                                print(f"OS: {os_name}")
+                                print(f"Version: {latest_version}")
+                                print("-" * 50)
+                                
+                                # Store all links
+                                all_links.append({
+                                    "product": "vlc",
+                                    "version": latest_version,
+                                    "text": file,
+                                    "url": file_url,
+                                    "platform": os_name
+                                })
+                                
+                                vlc_data["files"].append({
+                                    "file_name": file,
+                                    "download_url": file_url,
+                                    "os": os_name,
+                                    "version": latest_version
+                                })
+                                file_count += 1
+                        except Exception as err:
+                            print(f"⚠️ Error reading folder {folder_url}: {err}")
+                    else:
+                        # It's a file directly under latest version folder
+                        file_url = f"{latest_url}{entry}"
+                        os_name = detect_os(entry)
+                        
+                        print(f"File: {entry}")
+                        print(f"URL: {file_url}")
+                        print(f"OS: {os_name}")
+                        print(f"Version: {latest_version}")
+                        print("-" * 50)
+                        
+                        # Store all links
+                        all_links.append({
+                            "product": "vlc",
+                            "version": latest_version,
+                            "text": entry,
+                            "url": file_url,
+                            "platform": os_name
+                        })
+                        
+                        vlc_data["files"].append({
+                            "file_name": entry,
+                            "download_url": file_url,
+                            "os": os_name,
+                            "version": latest_version
+                        })
+                        file_count += 1
 
-            subentries = fetch_files(latest_url)
-            file_count = 0
-            for entry in subentries:
-                if '.' not in entry:
-                    folder_url = f"{latest_url}{entry}/"
-                    os_name = detect_os(entry)
-                    try:
-                        subfiles = fetch_files(folder_url)
-                        for file in subfiles:
-                            vlc_data["files"].append({
-                                "file_name": file,
-                                "download_url": f"{folder_url}{file}",
-                                "os": os_name
-                            })
-                            file_count += 1
-                    except Exception as err:
-                        print(f"⚠️ Error reading folder {folder_url}: {err}")
+                # Save all links to a separate JSON file
+                try:
+                    current_dir = os.path.dirname(os.path.abspath(__file__))
+                    all_links_file = os.path.join(current_dir, "vlc_all_links.json")
+                    
+                    with open(all_links_file, "w", encoding="utf-8") as f:
+                        json.dump(all_links, f, indent=2, ensure_ascii=False)
+                    
+                    print(f"\nSaved {len(all_links)} total links to vlc_all_links.json")
+                except Exception as e:
+                    print(f"Error saving all links: {str(e)}")
+
+                # Save download files to JSON
+                try:
+                    current_dir = os.path.dirname(os.path.abspath(__file__))
+                    output_file = os.path.join(current_dir, "vlc_info.json")
+                    
+                    with open(output_file, "w", encoding="utf-8") as f:
+                        json.dump(vlc_data, f, indent=2, ensure_ascii=False)
+                    
+                    print(f"\nSuccessfully saved {len(vlc_data['files'])} download files to vlc_info.json")
+                    
+                    # Print the download files
+                    print("\n=== VLC Download Information ===")
+                    print(json.dumps(vlc_data, indent=2, ensure_ascii=False))
+                    
+                except Exception as e:
+                    print(f"Error saving JSON file: {str(e)}")
+
+                if file_count > 0:
+                    print("Successfully fetched data")
                 else:
-                    # It's a file directly under latest version folder
-                    vlc_data["files"].append({
-                        "file_name": entry,
-                        "download_url": f"{latest_url}{entry}",
-                        "os": detect_os(entry)
-                    })
-                    file_count += 1
-
-            with open('vlc_info.json', 'w') as json_file:
-                json.dump(vlc_data, json_file, indent=2)
-
-            if file_count > 0:
-                print("Successfully fetched data")
+                    print("No files found to fetch.")
             else:
-                print("No files found to fetch.")
+                print("No valid versions found.")
         else:
-            print("No valid versions found.")
-    else:
-        print("'vlc/' folder not found.")
-except requests.exceptions.RequestException as e:
-    print(f"Request failed: {e}")
+            print("'vlc/' folder not found.")
+    except requests.exceptions.RequestException as e:
+        print(f"Request failed: {e}")
+
+def main():
+    try:
+        scrape_vlc()
+    except Exception as e:
+        print(f"An error occurred: {str(e)}")
+
+if __name__ == "__main__":
+    main()

@@ -5,7 +5,7 @@ import urllib3
 from urllib.parse import urljoin, urlparse
 import json
 import os
-
+from fontbase.version.main import version
 # Disable HTTPS warnings since verify=False is used
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -54,38 +54,87 @@ def detect_os(file_name):
     else:
         return 'Other'
 
-
 def extract_version(file_name):
     version_match = re.search(r'(\d+\.\d+(?:\.\d+)?)', file_name)
     return version_match.group(1) if version_match else "Unknown"
 
-def generate_combined_json(app_name, sources):
+def scrape_fontbase():
+    # Define sources: Windows, macOS and Linux
+    sources = [
+        {"url": "https://fontba.se/downloads/windows", "extensions": [".exe"]},
+        {"url": "https://fontba.se/downloads/mac", "extensions": [".dmg", ".pkg"]},
+        {"url": "https://fontba.se/downloads/linux", "extensions": [".deb", ".AppImage"]}
+    ]
+    
     all_files = []
+    all_links = []
     latest_version = None
+    
+    try:
+        print("\n=== Scraping FontBase ===")
+        
+        for source in sources:
+            print(f"\nScraping {source['url']}...")
+            fetched = fetch_files(source['url'], source['extensions'])
+            
+            if fetched:
+                print(f"Found {len(fetched)} files")
+                print("-" * 50)
+                
+                for file in fetched:
+                    version = extract_version(file['file_name'])
+                    if not latest_version:
+                        latest_version = version
+                    
+                    print(f"File: {file['file_name']}")
+                    print(f"URL: {file['download_url']}")
+                    print(f"OS: {file['os']}")
+                    print(f"Version: {version}")
+                    print("-" * 50)
+                    
+                    # Store all links
+                    all_links.append({
+                        "product": "fontbase",
+                        "version": version,
+                        "text": file['file_name'],
+                        "url": file['download_url'],
+                        "platform": file['os']
+                    })
+                    
+                    # Add version to file info
+                    file['version'] = version
+                    all_files.append(file)
+        
+        # Create the output structure
+        output = {
+            "name": "FontBase",
+            "latest_version": latest_version,
+            "files": all_files
+        }
+        
+        # Save all links to a separate JSON file
+        try:
+            current_dir = os.path.dirname(os.path.abspath(__file__))
+            all_links_file = os.path.join(current_dir, "fontbase_all_links.json")
+            
+            with open(all_links_file, "w", encoding="utf-8") as f:
+                json.dump(all_links, f, indent=2, ensure_ascii=False)
+            
+            print(f"\nSaved {len(all_links)} total links to fontbase_all_links.json")
+        except Exception as e:
+            print(f"Error saving all links: {str(e)}")
+        
+        # Save download files to JSON
+        
+            
+    except Exception as e:
+        print(f"An error occurred: {str(e)}")
 
-    for source in sources:
-        fetched = fetch_files(source['url'], source['extensions'])
-        if fetched:
-            all_files.extend(fetched)
-            if not latest_version:
-                latest_version = extract_version(fetched[0]['file_name'])
+def main():
+    try:
+        scrape_fontbase()
+    except Exception as e:
+        print(f"An error occurred: {str(e)}")
 
-    data = {
-        "name": app_name,
-        "latest_version": latest_version,
-        "files": all_files
-    }
-    with open('fontbase_info.json', 'w') as f:
-        json.dump(data, f, indent=2)
-    print(json.dumps(data, indent=2))
-    return data
-
-# Define sources: Windows and macOS and Linux
-sources = [
-    {"url": "https://fontba.se/downloads/windows", "extensions": [".exe"]},
-    {"url": "https://fontba.se/downloads/mac", "extensions": [".dmg", ".pkg"]},
-    {"url": "https://fontba.se/downloads/linux", "extensions": [".deb", ".AppImage"]}
-]
-
-# Call function
-generate_combined_json("FontBase", sources)
+if __name__ == "__main__":
+    main()

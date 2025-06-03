@@ -1,21 +1,371 @@
 {
-  "name": "7-zip",
-  "latest_version": "24.9",
+  "name": "7-Zip",
+  "latest_version": "24.09",
+  "release_date": "unknown",
   "files": [
     {
       "file_name": "7z2409-x64.exe",
-      "download_url": "https://www.7-zip.org/a/7z2409-x64.exe",
-      "os": "Windows 64-bit"
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2409-x64.exe",
+      "os": "Windows 64-bit",
+      "version": "24.9"
     },
     {
       "file_name": "7z2409.exe",
-      "download_url": "https://www.7-zip.org/a/7z2409.exe",
-      "os": "Windows 32-bit"
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2409.exe",
+      "os": "Unknown",
+      "version": "24.9"
     },
     {
       "file_name": "7z2409-arm64.exe",
-      "download_url": "https://www.7-zip.org/a/7z2409-arm64.exe",
-      "os": "Windows ARM64"
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2409-arm64.exe",
+      "os": "Windows ARM64",
+      "version": "24.9"
+    },
+    {
+      "file_name": "7z2409-x64.msi",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2409-x64.msi",
+      "os": "Windows 64-bit",
+      "version": "24.9"
+    },
+    {
+      "file_name": "7z2409.msi",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2409.msi",
+      "os": "Unknown",
+      "version": "24.9"
+    },
+    {
+      "file_name": "7z2409-extra.7z",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2409-extra.7z",
+      "os": "Source Code",
+      "version": "24.9"
+    },
+    {
+      "file_name": "7z2409-linux-x64.tar.xz",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2409-linux-x64.tar.xz",
+      "os": "Windows 64-bit",
+      "version": "24.9"
+    },
+    {
+      "file_name": "7z2409-linux-x86.tar.xz",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2409-linux-x86.tar.xz",
+      "os": "Windows 32-bit",
+      "version": "24.9"
+    },
+    {
+      "file_name": "7z2409-linux-arm64.tar.xz",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2409-linux-arm64.tar.xz",
+      "os": "Windows ARM64",
+      "version": "24.9"
+    },
+    {
+      "file_name": "7z2409-linux-arm.tar.xz",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2409-linux-arm.tar.xz",
+      "os": "Unknown",
+      "version": "24.9"
+    },
+    {
+      "file_name": "7z2409-mac.tar.xz",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2409-mac.tar.xz",
+      "os": "Unknown",
+      "version": "24.9"
+    },
+    {
+      "file_name": "7z2409-src.7z",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2409-src.7z",
+      "os": "Source Code",
+      "version": "24.9"
+    },
+    {
+      "file_name": "7z2409-src.tar.xz",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2409-src.tar.xz",
+      "os": "Unknown",
+      "version": "24.9"
+    },
+    {
+      "file_name": "lzma2409.7z",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/lzma2409.7z",
+      "os": "Source Code",
+      "version": "24.09"
+    },
+    {
+      "file_name": "7zr.exe",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7zr.exe",
+      "os": "Unknown",
+      "version": "24.09"
+    },
+    {
+      "file_name": "7z2301-x64.exe",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2301-x64.exe",
+      "os": "Windows 64-bit",
+      "version": "23.1"
+    },
+    {
+      "file_name": "7z2301.exe",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2301.exe",
+      "os": "Unknown",
+      "version": "23.1"
+    },
+    {
+      "file_name": "7z2301-arm64.exe",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2301-arm64.exe",
+      "os": "Windows ARM64",
+      "version": "23.1"
+    },
+    {
+      "file_name": "7z2301-x64.msi",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2301-x64.msi",
+      "os": "Windows 64-bit",
+      "version": "23.1"
+    },
+    {
+      "file_name": "7z2301.msi",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2301.msi",
+      "os": "Unknown",
+      "version": "23.1"
+    },
+    {
+      "file_name": "7z2301-extra.7z",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2301-extra.7z",
+      "os": "Source Code",
+      "version": "23.1"
+    },
+    {
+      "file_name": "7z2301-linux-x64.tar.xz",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2301-linux-x64.tar.xz",
+      "os": "Windows 64-bit",
+      "version": "23.1"
+    },
+    {
+      "file_name": "7z2301-linux-x86.tar.xz",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2301-linux-x86.tar.xz",
+      "os": "Windows 32-bit",
+      "version": "23.1"
+    },
+    {
+      "file_name": "7z2301-linux-arm64.tar.xz",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2301-linux-arm64.tar.xz",
+      "os": "Windows ARM64",
+      "version": "23.1"
+    },
+    {
+      "file_name": "7z2301-linux-arm.tar.xz",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2301-linux-arm.tar.xz",
+      "os": "Unknown",
+      "version": "23.1"
+    },
+    {
+      "file_name": "7z2301-mac.tar.xz",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2301-mac.tar.xz",
+      "os": "Unknown",
+      "version": "23.1"
+    },
+    {
+      "file_name": "7z2301-src.7z",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2301-src.7z",
+      "os": "Source Code",
+      "version": "23.1"
+    },
+    {
+      "file_name": "7z2301-src.tar.xz",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z2301-src.tar.xz",
+      "os": "Unknown",
+      "version": "23.1"
+    },
+    {
+      "file_name": "lzma2301.7z",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/lzma2301.7z",
+      "os": "Source Code",
+      "version": "24.09"
+    },
+    {
+      "file_name": "7z1900-x64.exe",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z1900-x64.exe",
+      "os": "Windows 64-bit",
+      "version": "19.0"
+    },
+    {
+      "file_name": "7z1900.exe",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z1900.exe",
+      "os": "Unknown",
+      "version": "19.0"
+    },
+    {
+      "file_name": "7z1900-extra.7z",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z1900-extra.7z",
+      "os": "Source Code",
+      "version": "19.0"
+    },
+    {
+      "file_name": "7z1900-src.7z",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z1900-src.7z",
+      "os": "Source Code",
+      "version": "19.0"
+    },
+    {
+      "file_name": "lzma1900.7z",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/lzma1900.7z",
+      "os": "Source Code",
+      "version": "24.09"
+    },
+    {
+      "file_name": "7z1900-x64.msi",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z1900-x64.msi",
+      "os": "Windows 64-bit",
+      "version": "19.0"
+    },
+    {
+      "file_name": "7z1900.msi",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z1900.msi",
+      "os": "Unknown",
+      "version": "19.0"
+    },
+    {
+      "file_name": "7z1604.exe",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z1604.exe",
+      "os": "Unknown",
+      "version": "16.4"
+    },
+    {
+      "file_name": "7z1604-x64.exe",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z1604-x64.exe",
+      "os": "Windows 64-bit",
+      "version": "16.4"
+    },
+    {
+      "file_name": "7z1604-extra.7z",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z1604-extra.7z",
+      "os": "Source Code",
+      "version": "16.4"
+    },
+    {
+      "file_name": "7z1604-src.7z",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z1604-src.7z",
+      "os": "Source Code",
+      "version": "16.4"
+    },
+    {
+      "file_name": "lzma1604.7z",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/lzma1604.7z",
+      "os": "Source Code",
+      "version": "24.09"
+    },
+    {
+      "file_name": "7z1604.msi",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z1604.msi",
+      "os": "Unknown",
+      "version": "16.4"
+    },
+    {
+      "file_name": "7z1604-x64.msi",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z1604-x64.msi",
+      "os": "Windows 64-bit",
+      "version": "16.4"
+    },
+    {
+      "file_name": "7z920.exe",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z920.exe",
+      "os": "Unknown",
+      "version": "24.09"
+    },
+    {
+      "file_name": "7z920.msi",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z920.msi",
+      "os": "Unknown",
+      "version": "24.09"
+    },
+    {
+      "file_name": "7z920-x64.msi",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z920-x64.msi",
+      "os": "Windows 64-bit",
+      "version": "24.09"
+    },
+    {
+      "file_name": "7z920-ia64.msi",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z920-ia64.msi",
+      "os": "Unknown",
+      "version": "24.09"
+    },
+    {
+      "file_name": "7z920-arm.exe",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z920-arm.exe",
+      "os": "Unknown",
+      "version": "24.09"
+    },
+    {
+      "file_name": "7za920.zip",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7za920.zip",
+      "os": "Unknown",
+      "version": "24.09"
+    },
+    {
+      "file_name": "7z920.tar.bz2",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z920.tar.bz2",
+      "os": "Unknown",
+      "version": "24.09"
+    },
+    {
+      "file_name": "7z920_extra.7z",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/7z920_extra.7z",
+      "os": "Source Code",
+      "version": "24.09"
+    },
+    {
+      "file_name": "lzma920.tar.bz2",
+      "text": "Download",
+      "download_url": "https://www.7-zip.org/download.htmla/lzma920.tar.bz2",
+      "os": "Unknown",
+      "version": "24.09"
     }
   ]
 }

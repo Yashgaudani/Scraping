@@ -1,0 +1,366 @@
+[
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-arm64.dmg",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-arm64.dmg.asc",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg.asc",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-arm64.dmg.md5",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg.md5",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-arm64.dmg.sha1",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg.sha1",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-arm64.dmg.sha256",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg.sha256",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-intel64.dmg",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-intel64.dmg.asc",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg.asc",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-intel64.dmg.md5",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg.md5",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-intel64.dmg.sha1",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg.sha1",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-intel64.dmg.sha256",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg.sha256",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-universal.dmg",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-universal.dmg",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-universal.dmg.asc",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-universal.dmg.asc",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-universal.dmg.md5",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-universal.dmg.md5",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-universal.dmg.sha1",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-universal.dmg.sha1",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-universal.dmg.sha256",
+    "url": "https://download.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-universal.dmg.sha256",
+    "platform": "macOS"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32-debugsym.7z",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32-debugsym.7z",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.7z",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.7z",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.7z.asc",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.7z.asc",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.7z.md5",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.7z.md5",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.7z.sha1",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.7z.sha1",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.7z.sha256",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.7z.sha256",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.exe",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.exe",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.exe.asc",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.exe.asc",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.exe.md5",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.exe.md5",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.exe.sha1",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.exe.sha1",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.exe.sha256",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.exe.sha256",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.zip",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.zip",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.zip.asc",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.zip.asc",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.zip.md5",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.zip.md5",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.zip.sha1",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.zip.sha1",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win32.zip.sha256",
+    "url": "https://download.videolan.org/vlc/3.0.21/win32/vlc-3.0.21-win32.zip.sha256",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64-debugsym.7z",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64-debugsym.7z",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.7z",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.7z",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.7z.asc",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.7z.asc",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.7z.md5",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.7z.md5",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.7z.sha1",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.7z.sha1",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.7z.sha256",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.7z.sha256",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.exe",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.exe.asc",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe.asc",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.exe.md5",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe.md5",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.exe.sha1",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe.sha1",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.exe.sha256",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe.sha256",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.zip",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.zip",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.zip.asc",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.zip.asc",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.zip.md5",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.zip.md5",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.zip.sha1",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.zip.sha1",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21-win64.zip.sha256",
+    "url": "https://download.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.zip.sha256",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21.tar.xz",
+    "url": "https://download.videolan.org/vlc/3.0.21/vlc-3.0.21.tar.xz",
+    "platform": "Other"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21.tar.xz.asc",
+    "url": "https://download.videolan.org/vlc/3.0.21/vlc-3.0.21.tar.xz.asc",
+    "platform": "Other"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21.tar.xz.md5",
+    "url": "https://download.videolan.org/vlc/3.0.21/vlc-3.0.21.tar.xz.md5",
+    "platform": "Other"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21.tar.xz.sha1",
+    "url": "https://download.videolan.org/vlc/3.0.21/vlc-3.0.21.tar.xz.sha1",
+    "platform": "Other"
+  },
+  {
+    "product": "vlc",
+    "version": "3.0.21",
+    "text": "vlc-3.0.21.tar.xz.sha256",
+    "url": "https://download.videolan.org/vlc/3.0.21/vlc-3.0.21.tar.xz.sha256",
+    "platform": "Other"
+  }
+]
