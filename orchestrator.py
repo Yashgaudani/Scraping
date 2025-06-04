@@ -31,6 +31,16 @@ class ScraperOrchestrator:
                 'path': 'vlc_main/main.py',
                 'module': 'scraper_vlc',
                 'function': 'scrape_vlc'
+            },
+            'foxit_pdf': {
+                'path': 'foxit_pdf/main.py',
+                'module': 'scraper_foxit_pdf',
+                'function': 'scrape_foxit_pdf'
+            },
+            'winscp': {
+                'path': 'winscp/main.py',
+                'module': 'scraper_winscp',
+                'function': 'scrape_winscp'
             }
         }
         self.results = {}

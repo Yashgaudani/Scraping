@@ -1,0 +1,639 @@
+[
+    {
+        "product": "WinSCP",
+        "version": "6.5.1",
+        "published_date": "Mon, 05 May 2025 12:16:12 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.1/WinSCP-6.5.1.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5.1",
+        "published_date": "Mon, 05 May 2025 12:16:12 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.1/WinSCP-6.5.1-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5.1",
+        "published_date": "Mon, 05 May 2025 12:16:11 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.1/WinSCP-6.5.1-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5.1",
+        "published_date": "Mon, 05 May 2025 12:16:11 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.1/WinSCP-6.5.1-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5.1",
+        "published_date": "Mon, 05 May 2025 12:16:11 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.1/WinSCP-6.5.1-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5.1",
+        "published_date": "Mon, 05 May 2025 12:16:11 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.1/WinSCP-6.5.1-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5",
+        "published_date": "Mon, 31 Mar 2025 12:44:08 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5/WinSCP-6.5.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5",
+        "published_date": "Mon, 31 Mar 2025 12:40:09 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5/WinSCP-6.5-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5",
+        "published_date": "Mon, 31 Mar 2025 12:40:09 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5/WinSCP-6.5-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5",
+        "published_date": "Mon, 31 Mar 2025 12:40:09 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5/WinSCP-6.5-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5",
+        "published_date": "Mon, 31 Mar 2025 12:40:09 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5/WinSCP-6.5-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5",
+        "published_date": "Mon, 31 Mar 2025 12:40:09 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5/WinSCP-6.5-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5",
+        "published_date": "Mon, 31 Mar 2025 12:40:09 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5/WinSCP-6.5-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.3",
+        "published_date": "Mon, 17 Mar 2025 12:12:13 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.3%20RC/WinSCP-6.4.3.RC-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.3",
+        "published_date": "Mon, 17 Mar 2025 12:12:13 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.3%20RC/WinSCP-6.4.3.RC.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.3",
+        "published_date": "Mon, 17 Mar 2025 12:12:13 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.3%20RC/WinSCP-6.4.3.RC-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.3",
+        "published_date": "Mon, 17 Mar 2025 12:12:13 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.3%20RC/WinSCP-6.4.3.RC-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.3",
+        "published_date": "Mon, 17 Mar 2025 12:12:13 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.3%20RC/WinSCP-6.4.3.RC-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.3",
+        "published_date": "Mon, 17 Mar 2025 12:12:13 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.3%20RC/WinSCP-6.4.3.RC-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.7",
+        "published_date": "Thu, 20 Feb 2025 12:07:09 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.7/WinSCP-6.3.7.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.7",
+        "published_date": "Thu, 20 Feb 2025 12:07:09 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.7/WinSCP-6.3.7-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.7",
+        "published_date": "Thu, 20 Feb 2025 12:07:09 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.7/WinSCP-6.3.7-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.7",
+        "published_date": "Thu, 20 Feb 2025 12:07:09 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.7/WinSCP-6.3.7-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.7",
+        "published_date": "Thu, 20 Feb 2025 12:07:09 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.7/WinSCP-6.3.7-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.7",
+        "published_date": "Thu, 20 Feb 2025 12:07:09 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.7/WinSCP-6.3.7-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.2",
+        "published_date": "Mon, 27 Jan 2025 14:33:11 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.2%20beta/WinSCP-6.4.2.beta-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.2",
+        "published_date": "Mon, 27 Jan 2025 14:33:11 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.2%20beta/WinSCP-6.4.2.beta.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.2",
+        "published_date": "Mon, 27 Jan 2025 14:33:11 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.2%20beta/WinSCP-6.4.2.beta-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.2",
+        "published_date": "Mon, 27 Jan 2025 14:33:11 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.2%20beta/WinSCP-6.4.2.beta-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.2",
+        "published_date": "Mon, 27 Jan 2025 14:33:11 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.2%20beta/WinSCP-6.4.2.beta-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.2",
+        "published_date": "Mon, 27 Jan 2025 14:33:11 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.2%20beta/WinSCP-6.4.2.beta-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.6",
+        "published_date": "Mon, 25 Nov 2024 12:45:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.6/WinSCP-6.3.6.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.6",
+        "published_date": "Mon, 25 Nov 2024 12:45:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.6/WinSCP-6.3.6-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.6",
+        "published_date": "Mon, 25 Nov 2024 12:45:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.6/WinSCP-6.3.6-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.6",
+        "published_date": "Mon, 25 Nov 2024 12:45:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.6/WinSCP-6.3.6-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.6",
+        "published_date": "Mon, 25 Nov 2024 12:45:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.6/WinSCP-6.3.6-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.6",
+        "published_date": "Mon, 25 Nov 2024 12:45:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.6/WinSCP-6.3.6-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.1",
+        "published_date": "Thu, 21 Nov 2024 14:24:04 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.1%20beta/WinSCP-6.4.1.beta-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.1",
+        "published_date": "Thu, 21 Nov 2024 14:04:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.1%20beta/WinSCP-6.4.1.beta.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.1",
+        "published_date": "Thu, 21 Nov 2024 14:04:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.1%20beta/WinSCP-6.4.1.beta-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.1",
+        "published_date": "Thu, 21 Nov 2024 14:04:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.1%20beta/WinSCP-6.4.1.beta-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.1",
+        "published_date": "Thu, 21 Nov 2024 14:04:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.1%20beta/WinSCP-6.4.1.beta-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.1",
+        "published_date": "Thu, 21 Nov 2024 14:04:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.1%20beta/WinSCP-6.4.1.beta-Setup-build.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4.1",
+        "published_date": "Thu, 21 Nov 2024 14:04:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4.1%20beta/WinSCP-6.4.1.beta-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4",
+        "published_date": "Thu, 19 Sep 2024 12:18:04 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4%20beta/WinSCP-6.4.beta.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4",
+        "published_date": "Thu, 19 Sep 2024 12:18:04 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4%20beta/WinSCP-6.4.beta-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4",
+        "published_date": "Thu, 19 Sep 2024 12:14:04 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4%20beta/WinSCP-6.4.beta-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4",
+        "published_date": "Thu, 19 Sep 2024 12:14:04 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4%20beta/WinSCP-6.4.beta-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4",
+        "published_date": "Thu, 19 Sep 2024 12:14:04 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4%20beta/WinSCP-6.4.beta-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.4",
+        "published_date": "Thu, 19 Sep 2024 12:14:04 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.4%20beta/WinSCP-6.4.beta-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.5",
+        "published_date": "Tue, 10 Sep 2024 10:14:04 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.5/WinSCP-6.3.5.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.5",
+        "published_date": "Tue, 10 Sep 2024 10:14:04 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.5/WinSCP-6.3.5-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.5",
+        "published_date": "Tue, 10 Sep 2024 10:14:04 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.5/WinSCP-6.3.5-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.5",
+        "published_date": "Tue, 10 Sep 2024 10:14:04 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.5/WinSCP-6.3.5-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.5",
+        "published_date": "Tue, 10 Sep 2024 10:14:04 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.5/WinSCP-6.3.5-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.5",
+        "published_date": "Tue, 10 Sep 2024 10:14:04 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.5/WinSCP-6.3.5-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.4",
+        "published_date": "Mon, 17 Jun 2024 13:00:07 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.4/WinSCP-6.3.4.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.4",
+        "published_date": "Mon, 17 Jun 2024 13:00:07 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.4/WinSCP-6.3.4-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.4",
+        "published_date": "Mon, 17 Jun 2024 13:00:07 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.4/WinSCP-6.3.4-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.4",
+        "published_date": "Mon, 17 Jun 2024 13:00:07 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.4/WinSCP-6.3.4-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.4",
+        "published_date": "Mon, 17 Jun 2024 13:00:07 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.4/WinSCP-6.3.4-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.4",
+        "published_date": "Mon, 17 Jun 2024 13:00:07 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.4/WinSCP-6.3.4-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.3",
+        "published_date": "Tue, 16 Apr 2024 14:20:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.3/WinSCP-6.3.3.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.3",
+        "published_date": "Tue, 16 Apr 2024 14:20:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.3/WinSCP-6.3.3-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.3",
+        "published_date": "Tue, 16 Apr 2024 14:20:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.3/WinSCP-6.3.3-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.3",
+        "published_date": "Tue, 16 Apr 2024 14:20:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.3/WinSCP-6.3.3-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.3",
+        "published_date": "Tue, 16 Apr 2024 14:20:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.3/WinSCP-6.3.3-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.3",
+        "published_date": "Tue, 16 Apr 2024 14:20:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.3/WinSCP-6.3.3-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.2",
+        "published_date": "Tue, 12 Mar 2024 14:56:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.2/WinSCP-6.3.2.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.2",
+        "published_date": "Tue, 12 Mar 2024 14:56:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.2/WinSCP-6.3.2-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.2",
+        "published_date": "Tue, 12 Mar 2024 14:56:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.2/WinSCP-6.3.2-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.2",
+        "published_date": "Tue, 12 Mar 2024 14:56:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.2/WinSCP-6.3.2-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.2",
+        "published_date": "Tue, 12 Mar 2024 14:56:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.2/WinSCP-6.3.2-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.2",
+        "published_date": "Tue, 12 Mar 2024 14:56:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.2/WinSCP-6.3.2-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.1",
+        "published_date": "Wed, 21 Feb 2024 15:48:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.1/WinSCP-6.3.1.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.1",
+        "published_date": "Wed, 21 Feb 2024 15:48:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.1/WinSCP-6.3.1-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.1",
+        "published_date": "Wed, 21 Feb 2024 15:48:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.1/WinSCP-6.3.1-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.1",
+        "published_date": "Wed, 21 Feb 2024 15:48:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.1/WinSCP-6.3.1-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.1",
+        "published_date": "Wed, 21 Feb 2024 15:48:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.1/WinSCP-6.3.1-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3.1",
+        "published_date": "Wed, 21 Feb 2024 15:48:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3.1/WinSCP-6.3.1-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3",
+        "published_date": "Wed, 14 Feb 2024 14:35:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3/WinSCP-6.3.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3",
+        "published_date": "Wed, 14 Feb 2024 14:35:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3/WinSCP-6.3-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3",
+        "published_date": "Wed, 14 Feb 2024 14:35:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3/WinSCP-6.3-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3",
+        "published_date": "Wed, 14 Feb 2024 14:32:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3/WinSCP-6.3-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.3",
+        "published_date": "Wed, 14 Feb 2024 14:32:05 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.3/WinSCP-6.3-Automation.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.2.4",
+        "published_date": "Sat, 03 Feb 2024 17:17:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.2.4%20RC/WinSCP-6.2.4.RC-ReadMe.txt/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.2.4",
+        "published_date": "Sat, 03 Feb 2024 17:17:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.2.4%20RC/WinSCP-6.2.4.RC.msi/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.2.4",
+        "published_date": "Sat, 03 Feb 2024 17:17:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.2.4%20RC/WinSCP-6.2.4.RC-Setup.exe/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.2.4",
+        "published_date": "Sat, 03 Feb 2024 17:17:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.2.4%20RC/WinSCP-6.2.4.RC-Source.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.2.4",
+        "published_date": "Sat, 03 Feb 2024 17:17:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.2.4%20RC/WinSCP-6.2.4.RC-Portable.zip/download",
+        "os": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.2.4",
+        "published_date": "Sat, 03 Feb 2024 17:13:06 -0000",
+        "download_link": "https://sourceforge.net/projects/winscp/files/WinSCP/6.2.4%20RC/WinSCP-6.2.4.RC-Automation.zip/download",
+        "os": "Windows"
+    }
+]
