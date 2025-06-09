@@ -79,7 +79,7 @@ def scrape_7zip():
         return
 
     # Save to JSON
-    output_path = "/home/yash/R & D/product_scrap/Vlc/7-zip/7zip_all_links.json"
+    output_path = "/home/yash-gaudani/R%D/Vlc/7-zip/7zip_all_links.json"
     os.makedirs(os.path.dirname(output_path), exist_ok=True)  # Ensure folder exists
 
     with open(output_path, "w", encoding="utf-8") as f:

@@ -32,8 +32,8 @@ class ScraperOrchestrator:
                 'module': 'scraper_vlc',
                 'function': 'scrape_vlc'
             },
-            'foxit_pdf': {
-                'path': 'foxit_pdf/main.py',
+            'Foxit_PDF': {
+                'path': 'Foxit_PDF/main.py',
                 'module': 'scraper_foxit_pdf',
                 'function': 'scrape_foxit_pdf'
             },
@@ -41,6 +41,11 @@ class ScraperOrchestrator:
                 'path': 'winscp/main.py',
                 'module': 'scraper_winscp',
                 'function': 'scrape_winscp'
+            },
+            'docker': {
+                'path': 'docker/main.py',
+                'module': 'docker_scraper', 
+                'function': 'scrape_docker'
             }
         }
         self.results = {}

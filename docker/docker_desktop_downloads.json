@@ -1,0 +1,30 @@
+[
+  {
+    "product": "docker-desktop",
+    "version": "4.42.0",
+    "text": "Download for Mac \u2013 Apple Silicon",
+    "url": "https://desktop.docker.com/mac/main/arm64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module",
+    "platform": "macOS"
+  },
+  {
+    "product": "docker-desktop",
+    "version": "4.42.0",
+    "text": "Download for Mac \u2013 Intel Chip",
+    "url": "https://desktop.docker.com/mac/main/amd64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module",
+    "platform": "macOS"
+  },
+  {
+    "product": "docker-desktop",
+    "version": "4.42.0",
+    "text": "Download for Windows \u2013 AMD64",
+    "url": "https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module",
+    "platform": "Windows"
+  },
+  {
+    "product": "docker-desktop",
+    "version": "4.42.0",
+    "text": "Download for Windows \u2013 ARM64",
+    "url": "https://desktop.docker.com/win/main/arm64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module",
+    "platform": "Windows"
+  }
+]
