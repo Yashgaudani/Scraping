@@ -46,7 +46,13 @@ class ScraperOrchestrator:
                 'path': 'docker/main.py',
                 'module': 'docker_scraper', 
                 'function': 'scrape_docker'
+            },
+            'utraviwer': {
+                'path': 'utraviews/main.py',
+                'module': 'utraviews_scraper', 
+                'function': 'utraviews_docker'
             }
+
         }
         self.results = {}
 
