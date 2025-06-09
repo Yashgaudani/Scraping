@@ -1,0 +1,30 @@
+[
+  {
+    "product": "slack",
+    "version": "4.44.63",
+    "text": "SlackSetup.exe",
+    "url": "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.44.63/SlackSetup.exe",
+    "platform": "Windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.63",
+    "text": "slack-standalone-4.44.63.0.msi",
+    "url": "https://downloads.slack-edge.com/desktop-releases/windows/x64/4.44.63/slack-standalone-4.44.63.0.msi",
+    "platform": "Windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.63",
+    "text": "Slack.msi",
+    "url": "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.44.63/Slack.msi",
+    "platform": "Windows"
+  },
+  {
+    "product": "slack",
+    "version": "4.44.63",
+    "text": "Slack.msix",
+    "url": "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.44.63/Slack.msix",
+    "platform": "Windows"
+  }
+]
