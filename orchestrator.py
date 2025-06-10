@@ -51,7 +51,12 @@ class ScraperOrchestrator:
                 'path': 'utraviews/main.py',
                 'module': 'utraviews_scraper', 
                 'function': 'utraviews_docker'
-            }
+            },
+             'postman': {
+            'path': 'postman/main.py',
+            'module': 'scraper_postman',
+            'function': 'scrape_postman'
+    }
 
         }
         self.results = {}

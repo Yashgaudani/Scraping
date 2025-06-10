@@ -1,0 +1,9 @@
+[
+    {
+        "product": "postman",
+        "version": "latest",
+        "text": "x64",
+        "url": "https://dl.pstmn.io/download/latest/win64",
+        "platform": "Windows"
+    }
+]
