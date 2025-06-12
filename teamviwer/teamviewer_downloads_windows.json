@@ -1,0 +1,44 @@
+[
+    {
+        "product": "TeamViewer",
+        "version": "x64.exe",
+        "text": "TeamViewerQS_x64.exe",
+        "url": "https://download.teamviewer.com/download/TeamViewerQS_x64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "latest",
+        "text": "TeamViewerQS.exe",
+        "url": "https://download.teamviewer.com/download/TeamViewerQS.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "x64.exe",
+        "text": "TeamViewer_Setup_x64.exe",
+        "url": "https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "latest",
+        "text": "TeamViewer_Setup.exe",
+        "url": "https://download.teamviewer.com/download/TeamViewer_Setup.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "x64.exe",
+        "text": "TeamViewer_Host_Setup_x64.exe",
+        "url": "https://download.teamviewer.com/download/TeamViewer_Host_Setup_x64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "latest",
+        "text": "TeamViewer_Host_Setup.exe",
+        "url": "https://download.teamviewer.com/download/TeamViewer_Host_Setup.exe",
+        "platform": "Windows"
+    }
+]

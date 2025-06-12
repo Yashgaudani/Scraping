@@ -1,0 +1,233 @@
+[
+    {
+        "product": "TeamViewer",
+        "version": "latest",
+        "text": "teamviewer_qs.tar.gz",
+        "url": "https://download.teamviewer.com/download/teamviewer_qs.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "amd64.deb",
+        "text": "teamviewer_amd64.deb",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer_amd64.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "i386.deb",
+        "text": "teamviewer_i386.deb",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer_i386.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "arm64.deb",
+        "text": "teamviewer_arm64.deb",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer_arm64.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "latest",
+        "text": "teamviewer_armhf.deb",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer_armhf.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer.x86",
+        "text": "teamviewer.x86_64.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer.x86_64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer.i686.rpm",
+        "text": "teamviewer.i686.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer.i686.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer.aarch64.rpm",
+        "text": "teamviewer.aarch64.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer.aarch64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer.armv7hl.rpm",
+        "text": "teamviewer.armv7hl.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer.armv7hl.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer-suse.x86",
+        "text": "teamviewer-suse.x86_64.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-suse.x86_64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer-suse.i686.rpm",
+        "text": "teamviewer-suse.i686.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-suse.i686.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer-suse.aarch64.rpm",
+        "text": "teamviewer-suse.aarch64.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-suse.aarch64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer-suse.armv7hl.rpm",
+        "text": "teamviewer-suse.armv7hl.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-suse.armv7hl.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "amd64.tar.xz",
+        "text": "teamviewer_amd64.tar.xz",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer_amd64.tar.xz",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "i386.tar.xz",
+        "text": "teamviewer_i386.tar.xz",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer_i386.tar.xz",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "arm64.tar.xz",
+        "text": "teamviewer_arm64.tar.xz",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer_arm64.tar.xz",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "latest",
+        "text": "teamviewer_armhf.tar.xz",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer_armhf.tar.xz",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "amd64.deb",
+        "text": "teamviewer-host_amd64.deb",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host_amd64.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "i386.deb",
+        "text": "teamviewer-host_i386.deb",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host_i386.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "arm64.deb",
+        "text": "teamviewer-host_arm64.deb",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host_arm64.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "latest",
+        "text": "teamviewer-host_armhf.deb",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host_armhf.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer-host.x86",
+        "text": "teamviewer-host.x86_64.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host.x86_64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer-host.i686.rpm",
+        "text": "teamviewer-host.i686.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host.i686.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer-host.aarch64.rpm",
+        "text": "teamviewer-host.aarch64.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host.aarch64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer-host.armv7hl.rpm",
+        "text": "teamviewer-host.armv7hl.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host.armv7hl.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer-host-suse.x86",
+        "text": "teamviewer-host-suse.x86_64.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host-suse.x86_64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer-host-suse.i686.rpm",
+        "text": "teamviewer-host-suse.i686.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host-suse.i686.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer-host-suse.aarch64.rpm",
+        "text": "teamviewer-host-suse.aarch64.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host-suse.aarch64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "teamviewer-host-suse.armv7hl.rpm",
+        "text": "teamviewer-host-suse.armv7hl.rpm",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host-suse.armv7hl.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "amd64.tar.xz",
+        "text": "teamviewer-host_amd64.tar.xz",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host_amd64.tar.xz",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "i386.tar.xz",
+        "text": "teamviewer-host_i386.tar.xz",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host_i386.tar.xz",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "arm64.tar.xz",
+        "text": "teamviewer-host_arm64.tar.xz",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host_arm64.tar.xz",
+        "platform": "Linux"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "latest",
+        "text": "teamviewer-host_armhf.tar.xz",
+        "url": "https://download.teamviewer.com/download/linux/teamviewer-host_armhf.tar.xz",
+        "platform": "Linux"
+    }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_6.3.2-1_amd64.deb",
+    "url": "https://download.anydesk.com/linux/anydesk_6.3.2-1_amd64.deb",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk-6.3.2-1.el7.x86_64.rpm",
+    "url": "https://download.anydesk.com/linux/anydesk-6.3.2-1.el7.x86_64.rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk-6.3.2-1.el8.x86_64.rpm",
+    "url": "https://download.anydesk.com/linux/anydesk-6.3.2-1.el8.x86_64.rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_6.3.2-1_x86_64.rpm",
+    "url": "https://download.anydesk.com/linux/anydesk_6.3.2-1_x86_64.rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk-6.3.2-amd64.tar.gz",
+    "url": "https://download.anydesk.com/linux/anydesk-6.3.2-amd64.tar.gz",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_6.3.3-1_amd64.deb",
+    "url": "https://download.anydesk.com/linux/anydesk_6.3.3-1_amd64.deb",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk-6.3.3-1.el7.x86_64.rpm",
+    "url": "https://download.anydesk.com/linux/anydesk-6.3.3-1.el7.x86_64.rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk-6.3.3-1.el8.x86_64.rpm",
+    "url": "https://download.anydesk.com/linux/anydesk-6.3.3-1.el8.x86_64.rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_6.3.3-1_x86_64.rpm",
+    "url": "https://download.anydesk.com/linux/anydesk_6.3.3-1_x86_64.rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk-6.3.3-amd64.tar.gz",
+    "url": "https://download.anydesk.com/linux/anydesk-6.3.3-amd64.tar.gz",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_6.4.0-1_amd64.deb",
+    "url": "https://download.anydesk.com/linux/anydesk_6.4.0-1_amd64.deb",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_6.4.0-1_x86_64.rpm",
+    "url": "https://download.anydesk.com/linux/anydesk_6.4.0-1_x86_64.rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk-6.4.0-amd64.tar.gz",
+    "url": "https://download.anydesk.com/linux/anydesk-6.4.0-amd64.tar.gz",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_6.4.1-1_amd64.deb",
+    "url": "https://download.anydesk.com/linux/anydesk_6.4.1-1_amd64.deb",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_6.4.1-1_x86_64.rpm",
+    "url": "https://download.anydesk.com/linux/anydesk_6.4.1-1_x86_64.rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk-6.4.1-amd64.tar.gz",
+    "url": "https://download.anydesk.com/linux/anydesk-6.4.1-amd64.tar.gz",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_6.4.2-1_amd64.deb",
+    "url": "https://download.anydesk.com/linux/anydesk_6.4.2-1_amd64.deb",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_6.4.2-1_x86_64.rpm",
+    "url": "https://download.anydesk.com/linux/anydesk_6.4.2-1_x86_64.rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk-6.4.2-amd64.tar.gz",
+    "url": "https://download.anydesk.com/linux/anydesk-6.4.2-amd64.tar.gz",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_6.4.3-1_amd64.deb",
+    "url": "https://download.anydesk.com/linux/anydesk_6.4.3-1_amd64.deb",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_6.4.3-1_x86_64.rpm",
+    "url": "https://download.anydesk.com/linux/anydesk_6.4.3-1_x86_64.rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk-6.4.3-amd64.tar.gz",
+    "url": "https://download.anydesk.com/linux/anydesk-6.4.3-amd64.tar.gz",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_7.0.0-1_aarch64.rpm",
+    "url": "https://download.anydesk.com/linux/anydesk_7.0.0-1_aarch64.rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_7.0.0-1_amd64.deb",
+    "url": "https://download.anydesk.com/linux/anydesk_7.0.0-1_amd64.deb",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk_7.0.0-1_x86_64.rpm",
+    "url": "https://download.anydesk.com/linux/anydesk_7.0.0-1_x86_64.rpm",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk-7.0.0-amd64.tar.gz",
+    "url": "https://download.anydesk.com/linux/anydesk-7.0.0-amd64.tar.gz",
+    "platform": "linux"
+  },
+  {
+    "product": "anydesk",
+    "version": "",
+    "text": "anydesk-latest-amd64.tar.gz",
+    "url": "https://download.anydesk.com/linux/anydesk-latest-amd64.tar.gz",
+    "platform": "linux"
+  }
+]

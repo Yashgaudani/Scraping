@@ -1,0 +1,23 @@
+[
+    {
+        "product": "TeamViewer",
+        "version": "latest",
+        "text": "TeamViewerQS.dmg",
+        "url": "https://download.teamviewer.com/download/TeamViewerQS.dmg",
+        "platform": "Windows"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "latest",
+        "text": "TeamViewer.dmg",
+        "url": "https://download.teamviewer.com/download/TeamViewer.dmg",
+        "platform": "Windows"
+    },
+    {
+        "product": "TeamViewer",
+        "version": "latest",
+        "text": "TeamViewerHost.dmg",
+        "url": "https://download.teamviewer.com/download/TeamViewerHost.dmg",
+        "platform": "Windows"
+    }
+]

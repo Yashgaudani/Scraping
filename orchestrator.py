@@ -12,6 +12,16 @@ class ScraperOrchestrator:
                 'module': 'scraper_7zip',
                 'function': 'scrape_7zip'
             },
+            'anydesk': {
+                'path': 'anydesk/main.py',
+                'module': 'scraper_anydesk',
+                'function': 'scrape_anydesk'
+            },
+            'docker': {
+                'path': 'docker/main.py',
+                'module': 'docker_scraper', 
+                'function': 'scrape_docker'
+            },
             'fontbase': {
                 'path': 'fontbase/main.py',
                 'module': 'scraper_fontbase',
@@ -22,42 +32,56 @@ class ScraperOrchestrator:
                 'module': 'scraper_fortinet',
                 'function': 'scrape_fortinet'
             },
-            'slack': {
-                'path': 'slack/main.py',
-                'module': 'scraper_slack',
-                'function': 'scrape_slack'
-            },
-            'vlc': {
-                'path': 'vlc_main/main.py',
-                'module': 'scraper_vlc',
-                'function': 'scrape_vlc'
-            },
             'Foxit_PDF': {
                 'path': 'Foxit_PDF/main.py',
                 'module': 'scraper_foxit_pdf',
                 'function': 'scrape_foxit_pdf'
             },
-            'winscp': {
-                'path': 'winscp/main.py',
-                'module': 'scraper_winscp',
-                'function': 'scrape_winscp'
+            'google': {
+                'path': 'google/main.py',
+                'module': 'scraper_google',
+                'function': 'scrape_google'
             },
-            'docker': {
-                'path': 'docker/main.py',
-                'module': 'docker_scraper', 
-                'function': 'scrape_docker'
+            'postman': {
+                'path': 'postman/main.py',
+                'module': 'scraper_postman',
+                'function': 'scrape_postman'
+            },
+            'slack': {
+                'path': 'slack/main.py',
+                'module': 'scraper_slack',
+                'function': 'scrape_slack'
+            },
+            'teamviwer': {
+                'path': 'teamviwer/main.py',
+                'module': 'scraper_teamviwer',
+                'function': 'scrape_teamviwer'
             },
             'utraviwer': {
                 'path': 'utraviews/main.py',
                 'module': 'utraviews_scraper', 
                 'function': 'utraviews_docker'
             },
-             'postman': {
-            'path': 'postman/main.py',
-            'module': 'scraper_postman',
-            'function': 'scrape_postman'
-    }
-
+            'vlc': {
+                'path': 'vlc/main.py',
+                'module': 'scraper_vlc',
+                'function': 'scrape_vlc'
+            },
+            'vlc_main': {
+                'path': 'vlc_main/main.py',
+                'module': 'scraper_vlc_main',
+                'function': 'scrape_vlc_main'
+            },
+            'winscp': {
+                'path': 'winscp/main.py',
+                'module': 'scraper_winscp',
+                'function': 'scrape_winscp'
+            },
+            'Zoom': {
+                'path': 'Zoom/main.py',
+                'module': 'scraper_zoom',
+                'function': 'scrape_zoom'
+            }
         }
         self.results = {}
 

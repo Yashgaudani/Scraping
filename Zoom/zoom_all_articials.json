@@ -1,0 +1,184 @@
+[
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Workplace desktop app for Meetings",
+    "url": "https://zoom.us/client/latest/ZoomInstaller.exe",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Workplace desktop app for Meetings (64-bit)",
+    "url": "https://zoom.us/client/latest/ZoomInstaller.exe?archType=x64",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Workplace desktop app for Meetings (ARM)",
+    "url": "https://zoom.us/client/latest/ZoomInstaller.exe?archType=winarm64",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Workplace desktop app for Meetings - MSI installer",
+    "url": "https://zoom.us/client/latest/ZoomInstallerFull.msi",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Workplace desktop app for Meetings (64-bit) - MSI installer",
+    "url": "https://zoom.us/client/latest/ZoomInstallerFull.msi?archType=x64",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Workplace desktop app for Meetings (ARM) - MSI installer",
+    "url": "https://zoom.us/client/latest/ZoomInstallerFull.msi?archType=winarm64",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "5.17.13.42282",
+    "text": "Zoom Workplace desktop app (Windows 7)",
+    "url": "https://cdn.zoom.us/prod/5.17.13.42282/ZoomInstaller.exe",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "5.17.13.42282",
+    "text": "Zoom Workplace desktop app (Windows 7, 64-bit)",
+    "url": "https://cdn.zoom.us/prod/5.17.13.42282/x64/ZoomInstaller.exe",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "5.17.13.42282",
+    "text": "Zoom Workplace desktop app (Windows 7, ARM)",
+    "url": "https://cdn.zoom.us/prod/5.17.13.42282/arm64/ZoomInstaller.exe",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "5.17.13.42282",
+    "text": "Zoom Workplace desktop app (Windows 7)(MSI installer)",
+    "url": "https://cdn.zoom.us/prod/5.17.13.42282/ZoomInstallerFull.msi",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "5.17.13.42282",
+    "text": "Zoom Workplace desktop app (Windows 7, 64-bit)(MSI installer)",
+    "url": "https://cdn.zoom.us/prod/5.17.13.42282/x64/ZoomInstallerFull.msi",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "5.17.13.42282",
+    "text": "Zoom Workplace desktop app (Windows 7, ARM)(MSI installer)",
+    "url": "https://cdn.zoom.us/prod/5.17.13.42282/arm64/ZoomInstallerFull.msi",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Plugin for Microsoft Outlook",
+    "url": "https://zoom.us/client/latest/ZoomOutlookPluginSetup.msi",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Plugin for Notes",
+    "url": "https://zoom.us/client/latest/ZoomNotesPluginSetup.msi",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Plugin for Microsoft Lync",
+    "url": "https://zoom.us/client/latest/ZoomLyncPluginSetup.msi",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Rooms app (64-bit)",
+    "url": "https://zoom.us/client/latest/ZoomRooms.exe?archType=x64",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Rooms app (64-bit) - MSI installer",
+    "url": "https://zoom.us/client/latest/ZoomRoomsInstaller.msi?archType=x64",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "1.0.0",
+    "text": "Zoom Rooms Custom AV controller app",
+    "url": "https://cdn.zoom.us/prod/customav/1.0.0/CustomAVController_Installer_v1.0.0.exe",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Workplace desktop app for Meetings",
+    "url": "https://zoom.us/client/latest/zoomusInstallerFull.pkg",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Workplace desktop app for Meetings (ARM)",
+    "url": "https://zoom.us/client/latest/Zoom.pkg?archType=arm64",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Workplace desktop app for Meetings (for IT Admins)",
+    "url": "https://zoom.us/client/latest/ZoomInstallerIT.pkg",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Plugin for Microsoft Outlook",
+    "url": "https://zoom.us/client/latest/ZoomMacOutlookPlugin.pkg",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Rooms app",
+    "url": "https://zoom.us/client/latest/ZoomRooms.pkg",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "1.0.0",
+    "text": "Zoom Rooms Custom AV controller app",
+    "url": "https://cdn.zoom.us/prod/customav/1.0.0/ZoomRoomsCustomAvController.zip",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Workplace desktop app (32-bit)",
+    "url": "https://zoom.us/download?os=linux",
+    "platform": "None"
+  },
+  {
+    "product": "zoom",
+    "version": "latest",
+    "text": "Zoom Workplace desktop app (64-bit)",
+    "url": "https://zoom.us/download?os=linux",
+    "platform": "None"
+  }
+]
