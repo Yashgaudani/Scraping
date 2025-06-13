@@ -1,0 +1,65 @@
+[
+  {
+    "platform": "win",
+    "product": "vscode",
+    "version": "1.101.0",
+    "filename": "win32-x64-user",
+    "url": "https://update.code.visualstudio.com/1.101.0/win32-x64-user/stable"
+  },
+  {
+    "platform": "win",
+    "product": "vscode",
+    "version": "1.101.0",
+    "filename": "win32-arm64-user",
+    "url": "https://update.code.visualstudio.com/1.101.0/win32-arm64-user/stable"
+  },
+  {
+    "platform": "mac",
+    "product": "vscode",
+    "version": "1.101.0",
+    "filename": "darwin-universal",
+    "url": "https://update.code.visualstudio.com/1.101.0/darwin-universal/stable"
+  },
+  {
+    "platform": "mac",
+    "product": "vscode",
+    "version": "1.101.0",
+    "filename": "darwin",
+    "url": "https://update.code.visualstudio.com/1.101.0/darwin/stable"
+  },
+  {
+    "platform": "mac",
+    "product": "vscode",
+    "version": "1.101.0",
+    "filename": "darwin-arm64",
+    "url": "https://update.code.visualstudio.com/1.101.0/darwin-arm64/stable"
+  },
+  {
+    "platform": "linux",
+    "product": "vscode",
+    "version": "1.101.0",
+    "filename": "linux-deb-x64",
+    "url": "https://update.code.visualstudio.com/1.101.0/linux-deb-x64/stable"
+  },
+  {
+    "platform": "linux",
+    "product": "vscode",
+    "version": "1.101.0",
+    "filename": "linux-rpm-x64",
+    "url": "https://update.code.visualstudio.com/1.101.0/linux-rpm-x64/stable"
+  },
+  {
+    "platform": "linux",
+    "product": "vscode",
+    "version": "1.101.0",
+    "filename": "linux-x64",
+    "url": "https://update.code.visualstudio.com/1.101.0/linux-x64/stable"
+  },
+  {
+    "platform": "linux",
+    "product": "vscode",
+    "version": "1.101.0",
+    "filename": "linux-snap-x64",
+    "url": "https://update.code.visualstudio.com/1.101.0/linux-snap-x64/stable"
+  }
+]

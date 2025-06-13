@@ -102,27 +102,75 @@ print("✅ All Zoom installers (Windows, macOS, Linux) saved to 'zoom_all_instal
 
 
 
-
 ###################################################################### json #############33#######################33
-
 
 import requests
 import json
 
-# Zoom Windows download JSON endpoint
-url = "https://zoom.us/rest/download?os=win"
-url = "https://zoom.us/rest/download?os=mac"
-url = "https://zoom.us/rest/download?os=linux"
+# Define base URL formats
+cdn_base = "https://cdn.zoom.us/prod/{version}/{filename}"
+latest_base = "https://zoom.us/client/latest/{filename}"
 
-# Send GET request
-response = requests.get(url)
-response.raise_for_status()
+# Platforms to query
+platforms = ["win", "mac", "linux"]
 
-# Parse JSON response
-data = response.json()
+# Keys to extract from downloadVO
+product_keys = [
+    "zoom", "zoomX64", "zoomArm64", "zoomRC",
+    "outlookPlugin", "lyncPlugin", "notesPlugin",
+    "zoomRooms", "zoomRoomsX64"
+]
 
-# Save to file
-with open("/home/yash-gaudani/R%D/Vlc/Zoom/zoom_api_download.json", "w", encoding="utf-8") as f:
-    json.dump(data, f, indent=2, ensure_ascii=False)
+# Final results
+download_links = []
 
-print("✅ Zoom Windows download data saved to 'zoom_windows_download.json'")
+for platform in platforms:
+    url = f"https://zoom.us/rest/download?os={platform}"
+    try:
+        response = requests.get(url)
+        data = response.json()
+    except Exception as e:
+        print(f"[ERROR] Failed to fetch {platform}: {e}")
+        continue
+
+    if data.get("status") and "downloadVO" in data.get("result", {}):
+        downloadVO = data["result"]["downloadVO"]
+
+        for key in product_keys:
+            product = downloadVO.get(key)
+            if product:
+                version = product.get("version")
+
+                # Regular package
+                filename = product.get("packageName")
+                if version and filename:
+                    url_format = latest_base if version == "latest" else cdn_base
+                    download_links.append({
+                        "platform": platform,
+                        "product": key,
+                        "version": version,
+                        "filename": filename,
+                        "url": url_format.format(version=version, filename=filename)
+                    })
+
+                # IT version
+                filename_it = product.get("packageNameForIT")
+                if version and filename_it:
+                    url_format = latest_base if version == "latest" else cdn_base
+                    download_links.append({
+                        "platform": platform,
+                        "product": key + "_IT",
+                        "version": version,
+                        "filename": filename_it,
+                        "url": url_format.format(version=version, filename=filename_it)
+                    })
+
+# Save result to JSON file
+output_path = "/home/yash-gaudani/R%D/Vlc/Zoom/zoom_download_links.json"
+with open(output_path, "w") as f:
+    json.dump(download_links, f, indent=2)
+
+# Print results
+for entry in download_links:
+    print(json.dumps(entry, indent=2))
+

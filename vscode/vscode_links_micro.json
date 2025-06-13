@@ -1,0 +1,58 @@
+[
+    {
+        "platform": "unknown",
+        "product": "vscode",
+        "version": "1.101.0",
+        "filename": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeSetup-arm64-1.101.0-insider.exe",
+        "url": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeSetup-arm64-1.101.0-insider.exe"
+    },
+    {
+        "platform": "unknown",
+        "product": "vscode",
+        "version": "1.101.0",
+        "filename": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeSetup-arm64-1.101.0.exe",
+        "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeSetup-arm64-1.101.0.exe"
+    },
+    {
+        "platform": "unknown",
+        "product": "vscode",
+        "version": "1.101.0",
+        "filename": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeUserSetup-arm64-1.101.0-insider.exe",
+        "url": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeUserSetup-arm64-1.101.0-insider.exe"
+    },
+    {
+        "platform": "unknown",
+        "product": "vscode",
+        "version": "1.101.0",
+        "filename": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeUserSetup-arm64-1.101.0.exe",
+        "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeUserSetup-arm64-1.101.0.exe"
+    },
+    {
+        "platform": "unknown",
+        "product": "vscode",
+        "version": "1.101.0",
+        "filename": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeSetup-x64-1.101.0-insider.exe",
+        "url": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeSetup-x64-1.101.0-insider.exe"
+    },
+    {
+        "platform": "unknown",
+        "product": "vscode",
+        "version": "1.101.0",
+        "filename": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeSetup-x64-1.101.0.exe",
+        "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeSetup-x64-1.101.0.exe"
+    },
+    {
+        "platform": "unknown",
+        "product": "vscode",
+        "version": "1.101.0",
+        "filename": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeUserSetup-x64-1.101.0-insider.exe",
+        "url": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeUserSetup-x64-1.101.0-insider.exe"
+    },
+    {
+        "platform": "unknown",
+        "product": "vscode",
+        "version": "1.101.0",
+        "filename": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeUserSetup-x64-1.101.0.exe",
+        "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/VSCodeUserSetup-x64-1.101.0.exe"
+    }
+]

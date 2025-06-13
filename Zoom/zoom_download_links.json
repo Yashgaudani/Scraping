@@ -1,0 +1,156 @@
+[
+  {
+    "platform": "win",
+    "product": "zoom",
+    "version": "6.4.12.64384",
+    "filename": "ZoomInstallerFull.exe",
+    "url": "https://cdn.zoom.us/prod/6.4.12.64384/ZoomInstallerFull.exe"
+  },
+  {
+    "platform": "win",
+    "product": "zoom_IT",
+    "version": "6.4.12.64384",
+    "filename": "ZoomInstallerFull.msi",
+    "url": "https://cdn.zoom.us/prod/6.4.12.64384/ZoomInstallerFull.msi"
+  },
+  {
+    "platform": "win",
+    "product": "zoomX64",
+    "version": "6.4.12.64384",
+    "filename": "ZoomInstallerFull.exe",
+    "url": "https://cdn.zoom.us/prod/6.4.12.64384/ZoomInstallerFull.exe"
+  },
+  {
+    "platform": "win",
+    "product": "zoomX64_IT",
+    "version": "6.4.12.64384",
+    "filename": "ZoomInstallerFull.msi",
+    "url": "https://cdn.zoom.us/prod/6.4.12.64384/ZoomInstallerFull.msi"
+  },
+  {
+    "platform": "win",
+    "product": "zoomArm64",
+    "version": "6.4.12.64384",
+    "filename": "ZoomInstallerFull.exe",
+    "url": "https://cdn.zoom.us/prod/6.4.12.64384/ZoomInstallerFull.exe"
+  },
+  {
+    "platform": "win",
+    "product": "zoomArm64_IT",
+    "version": "6.4.12.64384",
+    "filename": "ZoomInstallerFull.msi",
+    "url": "https://cdn.zoom.us/prod/6.4.12.64384/ZoomInstallerFull.msi"
+  },
+  {
+    "platform": "win",
+    "product": "zoomRC",
+    "version": "latest",
+    "filename": "ZoomRemoteControl.msi",
+    "url": "https://zoom.us/client/latest/ZoomRemoteControl.msi"
+  },
+  {
+    "platform": "win",
+    "product": "zoomRC_IT",
+    "version": "latest",
+    "filename": "ZoomRemoteControl_IT.msi",
+    "url": "https://zoom.us/client/latest/ZoomRemoteControl_IT.msi"
+  },
+  {
+    "platform": "win",
+    "product": "outlookPlugin",
+    "version": "6.4.10.1134",
+    "filename": "ZoomOutlookPluginSetup.msi",
+    "url": "https://cdn.zoom.us/prod/6.4.10.1134/ZoomOutlookPluginSetup.msi"
+  },
+  {
+    "platform": "win",
+    "product": "lyncPlugin",
+    "version": "5.13.10.812",
+    "filename": "ZoomLyncPluginSetup.msi",
+    "url": "https://cdn.zoom.us/prod/5.13.10.812/ZoomLyncPluginSetup.msi"
+  },
+  {
+    "platform": "win",
+    "product": "notesPlugin",
+    "version": "6.4.10.1135",
+    "filename": "ZoomNotesPluginSetup.msi",
+    "url": "https://cdn.zoom.us/prod/6.4.10.1135/ZoomNotesPluginSetup.msi"
+  },
+  {
+    "platform": "win",
+    "product": "notesPlugin_IT",
+    "version": "6.4.10.1135",
+    "filename": "ZoomNotesPluginAdminTool.msi",
+    "url": "https://cdn.zoom.us/prod/6.4.10.1135/ZoomNotesPluginAdminTool.msi"
+  },
+  {
+    "platform": "win",
+    "product": "zoomRooms",
+    "version": "latest",
+    "filename": "ZoomRooms.exe",
+    "url": "https://zoom.us/client/latest/ZoomRooms.exe"
+  },
+  {
+    "platform": "win",
+    "product": "zoomRooms_IT",
+    "version": "latest",
+    "filename": "ZoomRoomsInstaller.msi",
+    "url": "https://zoom.us/client/latest/ZoomRoomsInstaller.msi"
+  },
+  {
+    "platform": "win",
+    "product": "zoomRoomsX64",
+    "version": "latest",
+    "filename": "ZoomRooms.exe",
+    "url": "https://zoom.us/client/latest/ZoomRooms.exe"
+  },
+  {
+    "platform": "win",
+    "product": "zoomRoomsX64_IT",
+    "version": "latest",
+    "filename": "ZoomRoomsInstaller.msi",
+    "url": "https://zoom.us/client/latest/ZoomRoomsInstaller.msi"
+  },
+  {
+    "platform": "mac",
+    "product": "zoom",
+    "version": "6.4.12.56699",
+    "filename": "zoomusInstallerFull.pkg",
+    "url": "https://cdn.zoom.us/prod/6.4.12.56699/zoomusInstallerFull.pkg"
+  },
+  {
+    "platform": "mac",
+    "product": "zoomArm64",
+    "version": "6.4.12.56699",
+    "filename": "zoomusInstallerFull.pkg",
+    "url": "https://cdn.zoom.us/prod/6.4.12.56699/zoomusInstallerFull.pkg"
+  },
+  {
+    "platform": "mac",
+    "product": "zoomRC",
+    "version": "latest",
+    "filename": "ZoomRemoteControl.pkg",
+    "url": "https://zoom.us/client/latest/ZoomRemoteControl.pkg"
+  },
+  {
+    "platform": "mac",
+    "product": "zoomRC_IT",
+    "version": "latest",
+    "filename": "ZoomRemoteControl_IT.pkg",
+    "url": "https://zoom.us/client/latest/ZoomRemoteControl_IT.pkg"
+  },
+  {
+    "platform": "mac",
+    "product": "outlookPlugin",
+    "version": "5.12.0.113",
+    "filename": "ZoomMacOutlookPlugin.pkg",
+    "url": "https://cdn.zoom.us/prod/5.12.0.113/ZoomMacOutlookPlugin.pkg"
+  },
+  {
+    "platform": "mac",
+    "product": "zoomRooms",
+    "version": "latest",
+    "filename": "ZoomRooms.pkg",
+    "url": "https://zoom.us/client/latest/ZoomRooms.pkg"
+  }
+]
