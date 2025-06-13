@@ -1,0 +1,44 @@
+[
+    {
+        "product": "LibreOffice",
+        "version": "25.2.4",
+        "text": "LibreOffice_25.2.4_Linux_x86-64_deb.tar.gz",
+        "url": "https://download.documentfoundation.org/libreoffice/stable/25.2.4/deb/x86_64/LibreOffice_25.2.4_Linux_x86-64_deb.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "LibreOffice",
+        "version": "25.2.4",
+        "text": "LibreOffice_25.2.4_MacOS_aarch64.dmg",
+        "url": "https://download.documentfoundation.org/libreoffice/stable/25.2.4/mac/aarch64/LibreOffice_25.2.4_MacOS_aarch64.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "LibreOffice",
+        "version": "25.2.4",
+        "text": "LibreOffice_25.2.4_MacOS_x86-64.dmg",
+        "url": "https://download.documentfoundation.org/libreoffice/stable/25.2.4/mac/x86_64/LibreOffice_25.2.4_MacOS_x86-64.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "LibreOffice",
+        "version": "25.2.4",
+        "text": "LibreOffice_25.2.4_Win_aarch64.msi",
+        "url": "https://download.documentfoundation.org/libreoffice/stable/25.2.4/win/aarch64/LibreOffice_25.2.4_Win_aarch64.msi",
+        "platform": "Windows"
+    },
+    {
+        "product": "LibreOffice",
+        "version": "25.2.4",
+        "text": "LibreOffice_25.2.4_Win_x86.msi",
+        "url": "https://download.documentfoundation.org/libreoffice/stable/25.2.4/win/x86/LibreOffice_25.2.4_Win_x86.msi",
+        "platform": "Windows"
+    },
+    {
+        "product": "LibreOffice",
+        "version": "25.2.4",
+        "text": "LibreOffice_25.2.4_Win_x86-64.msi",
+        "url": "https://download.documentfoundation.org/libreoffice/stable/25.2.4/win/x86_64/LibreOffice_25.2.4_Win_x86-64.msi",
+        "platform": "Windows"
+    }
+]
